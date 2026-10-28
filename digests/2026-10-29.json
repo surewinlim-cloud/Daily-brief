@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-29",
+  "note": "Written by Claude from reputable outlets (Yahoo Finance/Reuters, ABS, Al Jazeera, The Standard, Bernama, PTI, Japan Times and others); source under each story. Some sections are shorter today because fewer verified reports were retrievable. Sports excluded.",
+  "sections": [
+    {
+      "title": "World Business: Tech",
+      "items": [
+        {
+          "headline": "Microsoft beats on cloud; shares jump after hours",
+          "summary": "Fiscal first-quarter earnings came in at $4.89 a share on $92.28bn of revenue, ahead of forecasts of $4.73 and $90.63bn. Cloud revenue reached $63.9bn. The stock rose about 4% in after-hours trade.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Alphabet profit misses; stock slides about 9% late",
+          "summary": "Earnings of $2.12 a share fell well short of the roughly $2.99 expected, and revenue was marginally below forecasts. Alphabet said its Gemini app now has 1 billion users, but shares fell around 8.7% after hours.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Oracle soars 10.7% on long-range revenue goal",
+          "summary": "The database and cloud company said it expects at least $225bn in revenue in fiscal 2030, implying annual growth above 35%.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Samsung reportedly to quit Hong Kong home-appliance market",
+          "summary": "The Korean group is said to be preparing to stop selling fridges, washing machines and air-conditioners in Hong Kong, after earlier pulling out of mainland China's appliance business.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        },
+        {
+          "headline": "Moody's: AI build-out is swelling private credit",
+          "summary": "The ratings agency said borrowing for AI infrastructure is expanding the private-credit market, and warned that a wall of maturing loans could leave weaker borrowers struggling to refinance.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        }
+      ]
+    },
+    {
+      "title": "World Business: Finance & Markets",
+      "items": [
+        {
+          "headline": "Fed holds rates at 3.75%–4% but two officials want a hike",
+          "summary": "The vote was 10-2, with Cleveland Fed President Beth Hammack and Governor Lisa Cook dissenting in favour of raising rates. Traders now price about an 85% chance of a quarter-point hike at the 9 December meeting.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Wall Street edges higher after the Fed",
+          "summary": "The S&P 500 closed up 0.28% at 7,743.98, the Dow rose 0.19% to 52,475.10 and the Nasdaq gained 0.27%, before Microsoft and Alphabet results moved futures after the bell.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Oil rises after attack on Saudi refinery",
+          "summary": "December US crude gained 1.77% to about $101.67 a barrel following reports of an attack on a Saudi Arabian refinery.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Trian bids $1.4bn for Wendy's",
+          "summary": "Shares of the burger chain jumped about 15% after reports that Nelson Peltz's Trian Partners offered to buy the company. Robinhood fell nearly 8% in early trade after a third-quarter earnings miss.",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-rise-as-fed-holds-rates-steady-in-split-vote-185837696.html"
+        },
+        {
+          "headline": "Chinese PCB maker dips on Hong Kong debut",
+          "summary": "Suzhou Dongshan Precision closed slightly lower on its first day of trading after raising HK$9.88bn in its share sale.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        }
+      ]
+    },
+    {
+      "title": "Singapore",
+      "items": [
+        {
+          "headline": "Ministers tell haze-linked firms 'business as usual' is over",
+          "summary": "Senior Minister K Shanmugam, DPM Gan Kim Yong and Minister Grace Fu met leaders of 10 Singapore-registered palm oil and forestry firms served NEA notices, including Wilmar, Golden Agri and Asia Pulp & Paper. All agreed to cooperate; they must hire independent assessors at their own cost, and tougher haze laws are being studied for the next Parliament sitting.",
+          "source": "AsiaOne via Malay Mail",
+          "url": "https://www.malaymail.com/news/singapore/2026/10/28/shanmugam-singapore-vows-action-against-firms-linked-to-haze-says-govt-determined-to-act/241007"
+        },
+        {
+          "headline": "EMA hires nuclear consultants ahead of 2027 IAEA review",
+          "summary": "The Energy Market Authority has appointed nuclear consultants and law firms to prepare for a review by the UN nuclear watchdog that will judge whether Singapore is ready to make an informed decision on nuclear power.",
+          "source": "The Straits Times via Bernama",
+          "url": "https://www.bernama.com/en/world/news.php?id=2626619"
+        },
+        {
+          "headline": "Afternoon showers bring some relief from haze",
+          "summary": "Air quality eased on Wednesday as rain fell across the island, raising hopes of clearer skies.",
+          "source": "Malay Mail",
+          "url": "https://www.malaymail.com/news/singapore/2026/10/28/singapore-haze-eases-as-afternoon-showers-offer-hope-of-clearer-skies/240936"
+        }
+      ]
+    },
+    {
+      "title": "Southeast Asia",
+      "items": [
+        {
+          "headline": "Hegseth pitches new US-ASEAN defence framework in Cebu",
+          "summary": "At the ASEAN defence ministers' meetings in the Philippines, the US Defense Secretary proposed what he called an ambitious new defence framework with the bloc.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        },
+        {
+          "headline": "Malaysia offers Indonesia help fighting forest fires",
+          "summary": "Kuala Lumpur offered operational support and technology cooperation; Indonesia's disaster agency BNPB is reviewing the offer as the regional haze persists.",
+          "source": "Antara via Bernama",
+          "url": "https://www.bernama.com/en/world/news.php?id=2626619"
+        },
+        {
+          "headline": "Thailand offers up to 50,000 baht per home for rooftop solar",
+          "summary": "The programme targets one million households, aiming to lower power bills and expand clean energy.",
+          "source": "The Nation via Bernama",
+          "url": "https://www.bernama.com/en/world/news.php?id=2626619"
+        },
+        {
+          "headline": "Thai police smash mule-account network",
+          "summary": "Eleven suspects were arrested in a nationwide operation against a transnational ring selling corporate mule accounts to scam gangs and money launderers.",
+          "source": "Bangkok Post via Bernama",
+          "url": "https://www.bernama.com/en/world/news.php?id=2626619"
+        },
+        {
+          "headline": "About 200 cruise passengers stranded in Cambodia",
+          "summary": "Passengers on a 'Cruise for life' voyage were left stuck at a Cambodian port after the operator ran out of money.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        }
+      ]
+    },
+    {
+      "title": "Japan",
+      "items": [
+        {
+          "headline": "Takaichi and Merz pledge closer economic-security ties",
+          "summary": "Prime Minister Sanae Takaichi and German Chancellor Friedrich Merz agreed to strengthen cooperation on economic security and technology during his visit.",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/28/takaichi-merz-meeting/"
+        },
+        {
+          "headline": "Defence build-up runs into funding roadblocks",
+          "summary": "Tokyo's push to expand defence spending faces financing hurdles, including the contentious question of tax increases.",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/28/japan/politics/defense-budget-tax-hike/"
+        },
+        {
+          "headline": "Bank of Japan seen holding rates this week",
+          "summary": "The central bank is unlikely to raise its policy rate at its meeting this week, according to a Japan Times preview.",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/business/2026/10/28/economy/boj-meeting-preview/"
+        }
+      ]
+    },
+    {
+      "title": "South Korea",
+      "items": [
+        {
+          "headline": "SK hynix profit jumps sevenfold; memory sold out to 2029",
+          "summary": "September-quarter operating profit hit 83.3 trillion won (about $62.5bn), beating forecasts. The chipmaker plans to return 60 trillion won to shareholders and says its memory capacity is sold out through 2029.",
+          "source": "CoinDesk, citing Bloomberg",
+          "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound"
+        },
+        {
+          "headline": "Kospi surges about 6.6% on chip rally",
+          "summary": "Seoul's benchmark posted a huge one-day gain on Wednesday as SK hynix rose about 11% and Samsung Electronics about 9%.",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound"
+        },
+        {
+          "headline": "Samsung Electronics results due today",
+          "summary": "Investors are watching Samsung's quarterly report on Thursday for further signs of AI-driven memory demand and pricing, after the Kospi fell 1.46% on Monday in the run-up.",
+          "source": "Korea JoongAng Daily",
+          "url": "https://www.koreajoongangdaily.com/business/kospi-falls-146-before-samsung-sk-hynix-earnings/12939040"
+        }
+      ]
+    },
+    {
+      "title": "Australia",
+      "items": [
+        {
+          "headline": "Inflation jumps to 4.3%, raising odds of a rate hike",
+          "summary": "Annual CPI rose to 4.3% in September from 4.0%, with prices up 1.3% over the quarter. Underlying (trimmed-mean) inflation was 3.6%; fuel rose 9.4% in the month on higher oil prices, and housing was the biggest contributor. The RBA meets next week.",
+          "source": "Australian Bureau of Statistics",
+          "url": "https://www.abs.gov.au/media-centre/media-releases/cpi-rose-43-year-september-2026"
+        }
+      ]
+    },
+    {
+      "title": "United States",
+      "items": [
+        {
+          "headline": "Democrats lead by 9 points with six days to the midterms",
+          "summary": "A Reuters/Ipsos poll put Democrats ahead 50% to 41% including leaners; Trump's approval was 32%, and 73% said the cost of living is on the wrong track. Election day is 3 November.",
+          "source": "Al Jazeera, citing Reuters/Ipsos",
+          "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+        },
+        {
+          "headline": "Trump rallies in Ohio; Obama campaigns in Georgia",
+          "summary": "Trump held his third Ohio rally of the month, while Obama joined Senator Jon Ossoff and governor candidate Keisha Lance Bottoms in Atlanta.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+        },
+        {
+          "headline": "Tight Senate races in Texas, Ohio and Kansas worry Republicans",
+          "summary": "Texas's Talarico–Paxton contest is virtually tied, and over $400m has been spent or reserved in Ohio's Brown–Husted race. Small third-party votes could decide several seats.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/us-midterms-six-days-left-who-leads-in-the-polls-as-trump-obama-rally"
+        },
+        {
+          "headline": "Crypto industry pours $176m into midterms",
+          "summary": "The sector is spending heavily on the elections as it prepares for politics after Trump.",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/10/28/world/politics/crypto-midterms-176-million-post-trump/"
+        }
+      ]
+    },
+    {
+      "title": "China",
+      "items": [
+        {
+          "headline": "Former vice premier Liu Yandong dies",
+          "summary": "The former Politburo member, a long-serving senior woman in the leadership, died in Beijing on Wednesday, Xinhua reported.",
+          "source": "The Standard, citing Xinhua",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        },
+        {
+          "headline": "Hong Kong fire inquiry report handed to Chief Executive",
+          "summary": "The independent committee on the Wang Fuk Court fire has submitted its report; the government may publish it and proposed reforms, including criminalising bid-rigging, as soon as Thursday.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        },
+        {
+          "headline": "Hong Kong rents hit another record",
+          "summary": "Rents set a fresh high last month and home prices rose for a second month, driven by demand from expatriates and mainland talent.",
+          "source": "The Standard (Hong Kong)",
+          "url": "https://www.thestandard.com.hk/news/article/346799/Night-Recap-October-28-2026"
+        }
+      ]
+    },
+    {
+      "title": "India",
+      "items": [
+        {
+          "headline": "Cyclone Arnab hits Andhra Pradesh; 180,000 evacuated",
+          "summary": "The 'very severe' storm made landfall early Wednesday with winds up to 135 km/h, affecting areas including Kakinada and Visakhapatnam, before weakening inland.",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/10/28/cyclone-arnab-makes-landfall-in-indias-andhra-pradesh"
+        },
+        {
+          "headline": "Rupee slips to 95.28 as Brent tops $115",
+          "summary": "A firmer dollar and higher crude pushed the rupee down 21 paise. The Sensex fell 352 points to 73,246 and the Nifty closed at 22,699.",
+          "source": "PTI via Daily Excelsior",
+          "url": "https://www.dailyexcelsior.com/rupee-falls-21-paise-to-close-at-95-28-against-us-dollar/"
+        }
+      ]
+    }
+  ]
+}
