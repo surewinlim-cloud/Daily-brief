@@ -1,0 +1,296 @@
+{
+ "date": "2026-10-31",
+ "note": "Written by Claude from reputable outlets (Reuters via syndication partners, Yahoo Finance, Al Jazeera, ABC News, The Korea Herald, The Straits Times via The Star, Bernama, The Standard and others); source under each story. Some sections are shorter today rather than padded. Sports excluded.",
+ "sections": [
+  {
+   "title": "World Business: Tech",
+   "items": [
+    {
+     "headline": "Intel suffers worst day since 1974",
+     "summary": "Intel shares closed down about 29% after the chipmaker gave a far weaker-than-expected fourth-quarter forecast, blaming a PC slump and a factory accident in Israel. The rout dragged on chip stocks, with AMD down about 12% and Nvidia about 5% in afternoon trade.",
+     "source": "TheStreet",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+    },
+    {
+     "headline": "Binance hit by record $6.3bn crypto heist",
+     "summary": "Binance says about $6.3bn was stolen in what would be the largest crypto theft on record, most of it within roughly 20 minutes. About $3bn has been frozen; blockchain analysts TRM Labs and Chainalysis link the attack to a North Korean hacking unit. Binance paused withdrawals and says it will cover all losses.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+    },
+    {
+     "headline": "Reddit plunges about 29% on soft outlook",
+     "summary": "Reddit beat third-quarter estimates but forecast weaker fourth-quarter revenue and reported disappointing daily active users. It also plans to require logins to view forums.",
+     "source": "TheStreet / Yahoo Finance",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+    },
+    {
+     "headline": "Nasdaq ends October with worst month since March 2025",
+     "summary": "The Nasdaq fell 2.86% on Friday and about 5% for the month as worries over AI spending and weak tech results deepened. Amazon said capital spending hit about $77bn in the third quarter, more than double a year earlier.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+     "headline": "Samsung reportedly exiting Hong Kong appliance market",
+     "summary": "Samsung is reported to be pulling out of Hong Kong's home appliance market, following its withdrawal from mainland China.",
+     "source": "The Standard (citing Reuters)",
+     "url": "https://www.thestandard.com.hk/news/article/347051/Night-Recap-October-30-2026"
+    }
+   ]
+  },
+  {
+   "title": "World Business: Finance & Markets",
+   "items": [
+    {
+     "headline": "Wall Street closes October with a broad sell-off",
+     "summary": "The S&P 500 fell 1.82% to 7,580 and the Dow lost 1.09% to 51,770 on Friday, while the VIX volatility gauge jumped about 13%. The Dow still ended the month up about 1.5%.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+     "headline": "Inflation data lifts bets on a December Fed hike",
+     "summary": "The Fed's preferred PCE price gauge showed prices rose in September, strengthening expectations that the central bank will raise rates in December. The 10-year Treasury yield eased to about 4.93%.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+     "headline": "Gold drops 3.6% while Brent stays above $110",
+     "summary": "Gold fell about 3.6% to roughly $3,885 an ounce. Brent crude traded around $112–115 a barrel, up about 12% in October amid Middle East tensions.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+     "headline": "Bitcoin slides to six-week low after Binance hack",
+     "summary": "Bitcoin touched $76,368 and ether fell to a two-month low after the Binance theft. Coinbase shares fell 4.8% even though it said it was not affected.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+    },
+    {
+     "headline": "Exxon and Chevron beat on refining strength",
+     "summary": "Exxon's refining earnings topped its upstream production earnings for the first time in at least six years, and Chevron's downstream profit hit a record for the period; both stocks rose early. Regeneron and Rivian also gained after raising outlooks.",
+     "source": "TheStreet",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+    }
+   ]
+  },
+  {
+   "title": "Singapore",
+   "items": [
+    {
+     "headline": "Retrenchments climb to highest level since 2020",
+     "summary": "Preliminary MOM data show 4,800 layoffs in the third quarter, up 3.9% from the previous quarter and mostly in services. Resident unemployment rose to 3.0% in September, though total employment grew by 27,700; MOM said parts of the labour market warrant close monitoring.",
+     "source": "The Straits Times (via The Star)",
+     "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/30/retrenchments-in-singapore-inch-up-in-q3-2026"
+    },
+    {
+     "headline": "Car loan curbs extended to private-hire cars",
+     "summary": "From Friday, buyers of individually owned private-hire cars face the same financing limits as private car buyers, closing a loophole that allowed more generous loans.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    },
+    {
+     "headline": "SBS Transit to train staff to help commuters with disabilities",
+     "summary": "The operator aims to train up to 70% of front-line staff to better support passengers with disabilities by 2030.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    }
+   ]
+  },
+  {
+   "title": "Southeast Asia",
+   "items": [
+    {
+     "headline": "Indonesia names 245 people and 20 firms as wildfire suspects",
+     "summary": "Indonesian police have named 245 individuals and 20 companies as suspects in forest and land fire cases nationwide, as haze concerns persist in the region.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    },
+    {
+     "headline": "Vietnam's trade tops $1 trillion for the first time",
+     "summary": "Vietnam's goods trade reached $1.01 trillion in the first ten months of the year, up 32.3% from a year earlier.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    },
+    {
+     "headline": "Philippines seeks deeper defence ties with India and South Korea",
+     "summary": "The Department of National Defence says it aims to expand defence cooperation with both countries.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    },
+    {
+     "headline": "Laos inflation eases slightly to 7.7%",
+     "summary": "Inflation slowed to 7.7% in October from 7.8%, but higher electricity, fuel and food prices continue to squeeze households. New flights will link Vientiane and Luang Prabang with Phnom Penh, Singapore and Bangkok.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    },
+    {
+     "headline": "Bali raid nets 21 foreigners over online gambling",
+     "summary": "Indonesian immigration officers detained 21 foreign nationals in Bali over alleged links to an international online gambling syndicate.",
+     "source": "Bernama",
+     "url": "https://www.bernama.com/en/world/news.php?id=2627615"
+    }
+   ]
+  },
+  {
+   "title": "Japan",
+   "items": [
+    {
+     "headline": "BOJ holds at 1.25% but signals a more hawkish phase",
+     "summary": "The Bank of Japan kept its policy rate unchanged as expected, upgraded its inflation outlook and said policy has entered a more hawkish phase, with hikes possible every few months. Most economists polled by Reuters expect a move to 1.5% in December.",
+     "source": "Reuters (via Star-Advertiser / Yahoo Finance)",
+     "url": "https://www.staradvertiser.com/2026/10/30/breaking-news/yen-gains-after-boj-holds-rates-dollar-slips/"
+    },
+    {
+     "headline": "Yen firms after the BOJ decision",
+     "summary": "The yen strengthened to about 157.89 per dollar, heading for a third straight daily gain, as the dollar index slipped to around 101.9.",
+     "source": "Reuters (via Star-Advertiser)",
+     "url": "https://www.staradvertiser.com/2026/10/30/breaking-news/yen-gains-after-boj-holds-rates-dollar-slips/"
+    },
+    {
+     "headline": "Core inflation back above 2% target",
+     "summary": "Core consumer inflation topped 2% in September for the first time in nine months, driven by energy costs, a weak yen and the Middle East conflict, after the BOJ raised rates in June and September.",
+     "source": "Reuters (via Yahoo Finance)",
+     "url": "https://finance.yahoo.com/economy/policy/articles/bank-japan-hold-rates-signal-210126915.html"
+    }
+   ]
+  },
+  {
+   "title": "South Korea",
+   "items": [
+    {
+     "headline": "Industrial output posts biggest jump in 15 years",
+     "summary": "Industrial output rose 3% in September, the sharpest gain since March 2011, led by a 19.2% surge in semiconductor production. Retail sales and facility investment also rose, the first time all three indicators gained together since June.",
+     "source": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10919991"
+    },
+    {
+     "headline": "Kim Jong-un showcases drones and military AI",
+     "summary": "North Korean state media said Kim visited a drone exhibition featuring suicide drones and publicly fired a 600mm rocket launcher for the first time, urging faster AI and unmanned weapons development.",
+     "source": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10920535"
+    },
+    {
+     "headline": "Binance theft linked to North Korean hackers",
+     "summary": "Analysts say a North Korean unit tied to the Lazarus Group was behind the $6.3bn Binance heist; Pyongyang routinely denies involvement in hacking.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/10/30/binance-says-6-3bn-stolen-in-biggest-crypto-heist-in-history-what-we-know"
+    }
+   ]
+  },
+  {
+   "title": "Australia",
+   "items": [
+    {
+     "headline": "Markets brace for RBA rate hike on Tuesday",
+     "summary": "Traders price about a 90% chance the RBA lifts the cash rate 25 basis points to 4.85%, and all four major banks expect the move after inflation hit 4.3%. The ASX 200 edged up 0.18% to 8,908 on Friday.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+    },
+    {
+     "headline": "Coles shares fall about 7% on weak sales",
+     "summary": "Coles shares slid after a disappointing first-quarter sales update, with an RBC analyst flagging likely market share losses.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+    },
+    {
+     "headline": "ASIC sues former First Guardian executives",
+     "summary": "The regulator alleges more than 6,000 Australians invested over $600m, largely from super, and that about $270m went into unregistered funds. A liquidator says remaining investors are likely to recover little.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+    },
+    {
+     "headline": "Inquiry launched as letter volumes plunge",
+     "summary": "Australia Post's letter volumes fell 14.7% to about 1.42 billion last year; a parliamentary inquiry is due to report by mid-next year.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+    },
+    {
+     "headline": "Sydney Airport hit by security strike delays",
+     "summary": "Security workers employed by Certis Security caused delays with industrial action, with more planned for the evening.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-10-30/asx-markets-business-live-news-oct-30/107326558"
+    }
+   ]
+  },
+  {
+   "title": "United States",
+   "items": [
+    {
+     "headline": "Markets end October with a broad sell-off",
+     "summary": "The Nasdaq dropped 2.86%, its worst day since June, and the S&P 500 lost 1.82% as AI spending concerns and weak tech results weighed on stocks days before the midterm elections.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    },
+    {
+     "headline": "FCC moves against Chinese labs and telecom firms",
+     "summary": "The FCC voted to stop Chinese labs from testing electronics meant for the US market, and plans to bar Chinese telecom firms from direct access to US phone numbers, citing national security and scam robocalls.",
+     "source": "The Standard",
+     "url": "https://www.thestandard.com.hk/news/article/347051/Night-Recap-October-30-2026"
+    },
+    {
+     "headline": "PCE data strengthens case for December hike",
+     "summary": "Fresh inflation data showed prices rising in September, firming expectations that the Fed will tighten again in December.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html"
+    }
+   ]
+  },
+  {
+   "title": "China",
+   "items": [
+    {
+     "headline": "Xi urges Germany and EU to stay pragmatic",
+     "summary": "Meeting German President Frank-Walter Steinmeier in Beijing, Xi Jinping said cooperation outweighs competition and called on the EU to work with China as a partner.",
+     "source": "Reuters (via The Business Standard)",
+     "url": "https://www.tbsnews.net/worldbiz/asia/chinas-xi-calls-eu-work-china-says-beijing-handles-ties-sincerity-goodwill-1587901"
+    },
+    {
+     "headline": "Factory activity seen flat in October",
+     "summary": "A Reuters poll expects the official manufacturing PMI to dip to 50 from 50.1, with data due Saturday. Third-quarter growth was 4.5%, and analysts think the full-year target can be met without new stimulus.",
+     "source": "Reuters (via Investing.com)",
+     "url": "https://www.investing.com/news/economic-indicators/chinas-factory-activity-seen-flat-in-october-reuters-poll-4985929"
+    },
+    {
+     "headline": "Party says hidden dangers eliminated after 33 expelled",
+     "summary": "A senior official said serious hidden dangers in the Communist Party and military have been removed, after a record 33 expulsions were confirmed.",
+     "source": "The Standard",
+     "url": "https://www.thestandard.com.hk/news/article/347051/Night-Recap-October-30-2026"
+    },
+    {
+     "headline": "Hong Kong minister apologises over Tai Po fire",
+     "summary": "Security Secretary Chris Tang apologised for the deadly Wang Fuk Court fire as officials unveiled measures against bid-rigging in building maintenance.",
+     "source": "The Standard",
+     "url": "https://www.thestandard.com.hk/news/article/347051/Night-Recap-October-30-2026"
+    },
+    {
+     "headline": "Hong Kong books HK$16.2bn half-year surplus",
+     "summary": "The surplus for April to September was driven mainly by proceeds from Silver Bond issuance.",
+     "source": "The Standard",
+     "url": "https://www.thestandard.com.hk/news/article/347051/Night-Recap-October-30-2026"
+    }
+   ]
+  },
+  {
+   "title": "India",
+   "items": [
+    {
+     "headline": "Rupee posts best month since February",
+     "summary": "The rupee closed at 94.95 per dollar, up about 1% in October, helped by RBI steps to curb dollar demand such as supplying dollars directly to state oil companies. High oil prices and portfolio outflows remain pressures.",
+     "source": "Reuters (via Business Recorder)",
+     "url": "https://www.brecorder.com/news/40446683/indian-rupee-posts-best-month-in-eight-on-rbi-measures-to-curb-dollar-demand"
+    },
+    {
+     "headline": "IT stocks power Indian shares to monthly gain",
+     "summary": "The Nifty 50 closed at 23,053 and the Sensex at 74,460, ending a two-month losing streak; the IT index jumped 17.7% in October, its best month in over six years.",
+     "source": "Reuters (via Business Recorder)",
+     "url": "https://www.brecorder.com/news/40446682/it-earnings-tax-cut-hopes-power-indian-shares-to-monthly-gains"
+    },
+    {
+     "headline": "Capital gains tax cut hopes lift sentiment",
+     "summary": "Reports that the government may cut long-term capital gains tax, now 12.5%, supported stocks, while Jio Platforms became India's second-most valuable company.",
+     "source": "Reuters (via Business Recorder)",
+     "url": "https://www.brecorder.com/news/40446682/it-earnings-tax-cut-hopes-power-indian-shares-to-monthly-gains"
+    }
+   ]
+  }
+ ]
+}
