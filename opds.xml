@@ -2,10 +2,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-10-30T23:01:11Z</updated>
+  <updated>2026-10-31T23:11:40Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <entry>
+    <title>Daily Brief — Sun 01 Nov 2026</title>
+    <id>urn:uuid:864ec6bf-c92f-5728-93db-67467dddee5d</id>
+    <updated>2026-10-31T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>28 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-01.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Sat 31 Oct 2026</title>
     <id>urn:uuid:ca065c85-95c5-59f9-8a6e-fca7d4a1ff56</id>
