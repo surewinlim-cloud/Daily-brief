@@ -1,0 +1,308 @@
+{
+ "date": "2026-11-03",
+ "note": "Written by Claude from reputable outlets (Reuters and Bloomberg via syndication partners, Yahoo Finance, TheStreet, CBS News, Al Jazeera, SCMP, ABC News, The Korea Herald, Nippon.com/Jiji, Business Standard, CNA and The Straits Times via Bernama's regional round-up, and others); source under each story. Several outlets could not be retrieved this morning, so some sections are shorter rather than padded. Disclosure: Claude is made by Anthropic, which appears in today's news. Sports excluded.",
+ "sections": [
+  {
+   "title": "World Business: Tech",
+   "items": [
+    {
+     "headline": "Marvell agrees to buy Lumentum in $115bn chip deal",
+     "summary": "Marvell Technology agreed to acquire optical-components maker Lumentum for about $115 billion. Both stocks fell on Monday — Lumentum by about 10% and Marvell by about 5% — amid deal worries and a broad chip-sector sell-off.",
+     "source": "TheStreet",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    },
+    {
+     "headline": "Apple beats forecasts in first results under CEO John Ternus",
+     "summary": "Apple reported fiscal fourth-quarter revenue of $114.5 billion and earnings of $2.10 a share, both ahead of estimates, taking full-year revenue to about $479 billion. Shares still slipped about 1% after hours as growth slowed.",
+     "source": "TheStreet; Yahoo Finance",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    },
+    {
+     "headline": "Palantir revenue nearly doubles; US commercial sales overtake government",
+     "summary": "Palantir's third-quarter revenue rose 96% to $2.31 billion, beating forecasts, and it raised its full-year outlook. For the first time its US commercial business out-sold its US government business.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+     "headline": "Oracle to raise $20bn in stock and bonds for AI spending",
+     "summary": "Oracle announced a $10 billion share offering and a $10 billion bond sale to fund its AI build-out, sending its stock down about 5%. Alphabet separately launched a €6 billion bond sale, days after Microsoft's $25 billion offering.",
+     "source": "Yahoo Finance; TheStreet",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+     "headline": "Anthropic filing shows soaring revenue ahead of listing",
+     "summary": "An amended S-1 showed Anthropic took in $33.2 billion of revenue in the first nine months of 2026 and disclosed close to $900 billion in spending commitments, as it heads for a stock-market listing later this month.",
+     "source": "Yahoo Finance; The Straits Times",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    }
+   ]
+  },
+  {
+   "title": "World Business: Finance & Markets",
+   "items": [
+    {
+     "headline": "Tech slide drags Nasdaq lower on midterm eve; Dow edges up",
+     "summary": "The Nasdaq fell 1.1% to 25,164 and the S&P 500 lost 0.5% to 7,541, while the Dow rose 0.4% to 51,984 as investors kept rotating out of AI and chip stocks. AI-linked shares have shed roughly $5 trillion in value over three weeks.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+     "headline": "Oil tumbles on hopes of US–Iran diplomacy",
+     "summary": "US crude settled down about 7.5% near $96 a barrel and Brent dropped about 8% to around $104–105 on reports that talks involving Iran and Qatar could pave a path to ending the Middle East war.",
+     "source": "Yahoo Finance; TheStreet",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+     "headline": "Markets price a December Fed rate hike",
+     "summary": "Futures imply roughly a 76% chance the Federal Reserve raises rates in December, with the 10-year Treasury yield near 4.89%. The ISM manufacturing index rose to 55.5, though input prices stay high; the October jobs report is due Friday.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    },
+    {
+     "headline": "Binance outflows mount after record hack",
+     "summary": "Net outflows from Binance reached about $4.7 billion after it reopened withdrawals following the roughly $6.4 billion theft that the FBI blames on North Korean hackers. Bitcoin slipped about 1% to near $76,700.",
+     "source": "TheStreet; Yahoo Finance",
+     "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-nov-02-2026"
+    },
+    {
+     "headline": "SpaceX eyes Boost Mobile to enter US wireless",
+     "summary": "SpaceX is reported to be in talks to buy EchoStar's Boost Mobile or secure access to its network. EchoStar shares rose about 5% before the open.",
+     "source": "Yahoo Finance; TheStreet",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-2-dow-sp-500-nasdaq-091835095.html"
+    }
+   ]
+  },
+  {
+   "title": "Singapore",
+   "items": [
+    {
+     "headline": "MPA investigates oil patches in southern waters",
+     "summary": "Oil patches were spotted near Pulau Sebarok, Pulau Semakau and Selat Pauh, and the Maritime and Port Authority is investigating their source.",
+     "source": "CNA (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2628745"
+    },
+    {
+     "headline": "SIA pilots praised for windy Perth landing",
+     "summary": "Footage of Singapore Airlines pilots landing safely at Perth airport in strong winds went viral, drawing praise online.",
+     "source": "The Straits Times (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2628745"
+    },
+    {
+     "headline": "Singapore steps up push for energy-efficient air-conditioners",
+     "summary": "Singapore is pressing for more efficient air-conditioning as it tries to curb one of the biggest drains on household and building power use.",
+     "source": "SCMP",
+     "url": "https://www.scmp.com/news/asia/southeast-asia"
+    }
+   ]
+  },
+  {
+   "title": "Southeast Asia",
+   "items": [
+    {
+     "headline": "Indonesia tells Russia to stop recruiting its citizens",
+     "summary": "Jakarta asked Moscow to stop drawing Indonesians into the Russian military after an Indonesian who fought in Ukraine reportedly died.",
+     "source": "ANTARA (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2628745"
+    },
+    {
+     "headline": "Laos raises record $500m in Hong Kong bond",
+     "summary": "Laos sold a record US$500 million government bond listed in Hong Kong and entered the Emerging Markets Bond Index for the first time, widening its investor base.",
+     "source": "Vientiane Times (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2628745"
+    },
+    {
+     "headline": "Thai ruling party denies Thaksin amnesty deal",
+     "summary": "Pheu Thai leader Julapun Amornvivat rejected rumours of a secret deal tying an amnesty for Thaksin Shinawatra to confidence votes in an upcoming censure debate.",
+     "source": "Bangkok Post (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2628745"
+    },
+    {
+     "headline": "Melaka state poll tests Anwar's coalition",
+     "summary": "Campaigning is under way in Malaysia's Melaka state election, with 79 candidates cleared, in a test of whether Prime Minister Anwar Ibrahim's federal partners can co-operate on the ground.",
+     "source": "SCMP",
+     "url": "https://www.scmp.com/news/asia/southeast-asia"
+    },
+    {
+     "headline": "Ho Chi Minh City battles hand, foot and mouth outbreak",
+     "summary": "Vietnam's largest city launched a campaign against hand, foot and mouth disease after more than 44,000 cases this year, with schools and childcare centres a particular concern.",
+     "source": "VietnamPlus (via Bernama)",
+     "url": "https://www.bernama.com/en/world/news.php?id=2628745"
+    }
+   ]
+  },
+  {
+   "title": "Japan",
+   "items": [
+    {
+     "headline": "ANA and JAL profits fall as fuel costs bite",
+     "summary": "Japan's two biggest airlines both reported lower first-half profits, blaming higher fuel costs.",
+     "source": "Nippon.com / Jiji",
+     "url": "https://www.nippon.com/en/articles/-/56797"
+    },
+    {
+     "headline": "Cyberattack exposes 77 million email addresses",
+     "summary": "About 77 million email addresses leaked from the Arara Message service after a cyberattack, while GMO Internet's chief admitted security flaws had been flagged two years ago.",
+     "source": "Nippon.com / Jiji",
+     "url": "https://www.nippon.com/en/articles/-/56805"
+    },
+    {
+     "headline": "Okinawa Policy Council meets for first time in 13 years",
+     "summary": "The government-Okinawa policy council is convening for the first time in 13 years.",
+     "source": "Nippon.com / Jiji",
+     "url": "https://www.nippon.com/en/articles/-/56802"
+    },
+    {
+     "headline": "Takaichi calls for stability in Hormuz and Bab el-Mandeb",
+     "summary": "In a video message to the Manama Dialogue, Prime Minister Sanae Takaichi urged swift stability in the two strategic straits and pledged to work with Gulf states to keep shipping routes open.",
+     "source": "Nippon.com / Jiji",
+     "url": "https://www.nippon.com/en/articles/-/56733"
+    }
+   ]
+  },
+  {
+   "title": "South Korea",
+   "items": [
+    {
+     "headline": "Lee pitches record budget with big AI push",
+     "summary": "President Lee Jae Myung presented a 2027 budget of 820.9 trillion won, up a record 12.8%, including 21.3 trillion won for AI chips, data centres and related projects and 4.6 trillion won to build a top-tier homegrown AI model.",
+     "source": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10922482"
+    },
+    {
+     "headline": "Conservatives say Lee dodged hard truths in address",
+     "summary": "The opposition accused the president of avoiding difficult issues in his parliamentary budget speech.",
+     "source": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10922958"
+    },
+    {
+     "headline": "Lee's approval edges up but stays below 40%",
+     "summary": "A Realmeter poll put Lee's approval at 36.9%, up 1.6 points, its 10th straight week under 40%; the opposition People Power Party led the ruling Democrats 40.2% to 38.3%.",
+     "source": "The Korea Herald",
+     "url": "https://www.koreaherald.com/article/10922343"
+    },
+    {
+     "headline": "Exports top $900bn for the first time",
+     "summary": "Lee hailed South Korea's annual exports passing $900 billion for the first time in its history.",
+     "source": "The Herald Business",
+     "url": "https://biz.heraldcorp.com/article/10921648"
+    }
+   ]
+  },
+  {
+   "title": "Australia",
+   "items": [
+    {
+     "headline": "RBA tipped for fifth rate rise this year",
+     "summary": "The Reserve Bank is widely expected to lift rates again on Tuesday after inflation hit 4.3%, as unions protested outside the bank.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-02/federal-politics-live-blog-albanese-chogm-nov-2/107334912"
+    },
+    {
+     "headline": "Government rules out means-testing EV and battery schemes",
+     "summary": "Ministers rejected business calls to target the electric-vehicle and home-battery programs ahead of the mid-year budget update, saying they ease living costs.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-02/federal-politics-live-blog-albanese-chogm-nov-2/107334912"
+    },
+    {
+     "headline": "Albanese to press UK on backpacker work rules",
+     "summary": "At the Commonwealth summit in Antigua, the prime minister will ask UK Prime Minister Andy Burnham to reverse a trade-deal exemption freeing British backpackers from regional work requirements.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-02/albanese-to-discuss-british-backpacker-changes-with-burnham/107208084"
+    },
+    {
+     "headline": "Federal–NSW gun buyback begins",
+     "summary": "A buyback launched after the Bondi Beach attack is under way, with costs split 50-50 between Canberra and NSW; the ACT has joined and other states are being urged to follow.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-02/federal-politics-live-blog-albanese-chogm-nov-2/107334912"
+    },
+    {
+     "headline": "Nationals leader Canavan seeks lower-house seat",
+     "summary": "Matt Canavan will seek preselection for the Queensland seat of Capricornia, setting up a likely contest with One Nation.",
+     "source": "ABC News",
+     "url": "https://www.abc.net.au/news/2026-11-02/matt-canavan-capricornia-one-nation-casey-briggs/107301460"
+    }
+   ]
+  },
+  {
+   "title": "United States",
+   "items": [
+    {
+     "headline": "Americans vote today in high-stakes midterms",
+     "summary": "All 435 House seats, 35 Senate seats and 36 governorships are on the ballot. More than 54 million people voted early, and CBS's tracker last estimated Democrats on course to win the House.",
+     "source": "CBS News; Al Jazeera",
+     "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/"
+    },
+    {
+     "headline": "Trump makes closing pitch at Lincoln Memorial",
+     "summary": "In a televised speech at the Reflecting Pool, Trump said the country was booming under Republican leadership and urged supporters to turn out.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/liveblog/2026/11/2/us-midterms-2026-live-trump-democrats-make-final-push-amid-michigan-rift"
+    },
+    {
+     "headline": "Michigan Democrat Stevens backs Republican for Senate",
+     "summary": "Haley Stevens, who lost the Democratic primary to Abdul El-Sayed, endorsed Republican Mike Rogers; Senate Democratic leader Chuck Schumer condemned the move.",
+     "source": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/"
+    },
+    {
+     "headline": "Judge tosses DOJ bid over Alaska Senate certification",
+     "summary": "A federal judge dismissed a Justice Department suit seeking to block certification of Alaska's Senate result if Republican Dan Sullivan lost, ruling it lacked standing; the department has appealed.",
+     "source": "CBS News",
+     "url": "https://www.cbsnews.com/live-updates/2026-elections-monday-november-2/"
+    }
+   ]
+  },
+  {
+   "title": "China",
+   "items": [
+    {
+     "headline": "Party pledges deeper oversight of tech and platform firms",
+     "summary": "The Communist Party's fifth plenum report vowed to reach further into the tech and digital-platform sectors and target corruption tied to crypto, cross-border money flows and blockchain.",
+     "source": "SCMP",
+     "url": "https://www.scmp.com/news/china/politics/article/3372899/communist-party-pledges-reach-deeper-chinas-tech-digital-platform-sectors"
+    },
+    {
+     "headline": "Xi says strict party discipline helps growth",
+     "summary": "Xi Jinping argued that tight party governance supports rather than stifles the economy and pledged to keep it up.",
+     "source": "SCMP",
+     "url": "https://www.scmp.com/news/china/politics/article/3372901/chinas-xi-says-strict-party-governance-has-positive-impact-does-not-stifle-growth"
+    },
+    {
+     "headline": "Shenzhen enters final phase of APEC preparations",
+     "summary": "The city is rolling out traffic curbs, greening work and heavy security ahead of this month's APEC leaders' summit.",
+     "source": "SCMP",
+     "url": "https://www.scmp.com/news/china/politics/article/3372880/apec-china-summit-traffic-curbs-tree-planting-shenzhens-plans-enter-final-phase"
+    },
+    {
+     "headline": "Chinese experts doubt midterms will change Trump's foreign policy",
+     "summary": "Analysts in China say even a Democratic win and a divided Congress would do little to restrain Trump abroad.",
+     "source": "SCMP",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3372887/could-midterm-defeat-tame-trump-not-foreign-policy-chinese-experts-say"
+    }
+   ]
+  },
+  {
+   "title": "India",
+   "items": [
+    {
+     "headline": "Sebi urges scrapping capital-gains tax for foreign investors",
+     "summary": "The regulator recommended dropping the 12.5% long-term capital gains tax on foreign portfolio investors' equity gains; foreign funds have pulled about ₹2.95 trillion from Indian stocks this year.",
+     "source": "Business Standard",
+     "url": "https://www.business-standard.com/markets/news/sebi-long-term-capital-gains-tax-indian-markets-impact-foreign-investment-126110200664_1.html"
+    },
+    {
+     "headline": "RBI's forward dollar short hits record $239bn",
+     "summary": "The central bank's net short forward position more than doubled since June to a record at end-September as it defended the rupee, while reserves fell to about $720 billion.",
+     "source": "CNBC-TV18",
+     "url": "https://www.tradingview.com/news/cnbctv:8a8db49d9094b:0/"
+    },
+    {
+     "headline": "Modi to open Pune's Metro Line 3",
+     "summary": "The prime minister inaugurates the 23.2km, ₹8,313 crore elevated line linking Hinjewadi and Shivajinagar today, with public service starting on Wednesday.",
+     "source": "Daily Jagran",
+     "url": "https://www.thedailyjagran.com/india/news/hinjewadi-to-shivajinagar-in-minutes-pm-modi-to-inaugurate-pune-metro-line-3-on-november-3-check-stations-timings-10334907"
+    }
+   ]
+  }
+]
+}
