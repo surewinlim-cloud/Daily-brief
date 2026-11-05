@@ -1,0 +1,296 @@
+{
+ "date": "2026-11-06",
+ "note": "Written by Claude from reputable outlets (Reuters via syndication partners, ABC News, Al Jazeera, The Standard, Yahoo Finance and others); source under each story. Singapore, Southeast Asia, Japan, South Korea and China sections are shorter because fewer reputable reports could be retrieved this morning. Sports excluded.",
+ "sections": [
+  {
+   "title": "World Business: Tech",
+   "items": [
+    {
+     "headline": "Chip stocks crash 12% as AI trade unravels",
+     "summary": "The Philadelphia semiconductor index fell 12.25% on Thursday, with AMD down about 15% and Nvidia and Micron among the hardest hit, as large-cap tech had its worst day since the Covid sell-off. Nomura's Charlie McElligott blamed hedge funds locking in 2026 profits rather than any sudden change in fundamentals; investors are also weighing whether a Democratic Congress will slow AI data-centre buildout.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "Palantir sheds about $40bn in value as software sinks",
+     "summary": "Palantir lost roughly $40 billion of market value in a day, and security names including CrowdStrike, Cloudflare, Okta and Palo Alto Networks also fell sharply. Salesforce and Adobe were little changed.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "Tesla and SpaceX both drop more than 9%",
+     "summary": "Shares of Tesla and SpaceX each fell over 9% on worries about regulatory hurdles to a possible merger and to data-centre expansion under the new Congress.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "AppLovin jumps on revenue beat",
+     "summary": "AppLovin shares surged about 23% before the open after third-quarter revenue of $2.18 billion beat expectations of $2.07 billion. Qualcomm, by contrast, slid after its results.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "Canva to cut more than one in five jobs",
+     "summary": "Australian design-software company Canva announced it will cut over a fifth of its workforce, with its chief executive calling it the hardest moment in the company's 13-year history.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    }
+   ]
+  },
+  {
+   "title": "World Business: Finance & Markets",
+   "items": [
+    {
+     "headline": "Wall Street's post-election rally collapses; Nasdaq in correction",
+     "summary": "The S&P 500 fell 4.36% to 7,353.73, the Dow lost 1,833 points (3.44%) and the Nasdaq dropped 5.52%, entering correction territory. The VIX jumped nearly 70% to 28.18, and the Dow was on track for its worst second session after a midterm since 1896. Retail investors were net sellers of about $358 million, per Vanda Research.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "Bank of England hikes to 4%, its first rise since 2023",
+     "summary": "The BoE raised Bank Rate a quarter point to 4% on an 8-1 vote, with Catherine Mann wanting a half-point move. It sees inflation near 5% by mid-2027 and warned at least one more hike is likely if the US-Iran conflict continues.",
+     "source": "Reuters via Free Malaysia Today",
+     "url": "https://freemalaysiatoday.com/category/business/2026/11/06/bank-of-england-raises-rates-for-first-time-since-2023-warns-more-likely"
+    },
+    {
+     "headline": "Oil rebounds as Iran-deal hopes waver; gold edges up",
+     "summary": "WTI rose 3.2% to about $91 and Brent traded near $98 amid uncertainty over whether President Trump will pursue a deal to end the Iran war, after Vice President Vance linked the midterm losses to the conflict. Gold gained 0.7% to $4,100.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "Bitcoin slides below $76,000",
+     "summary": "Bitcoin fell more than 5% to under $76,000 after topping $80,000 on Wednesday, with the market still digesting last week's $6.3 billion Binance hack. Stifel said the crypto Clarity Act is unlikely to advance before year-end.",
+     "source": "Yahoo Finance",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html"
+    },
+    {
+     "headline": "3M agrees up to $7.35bn PFAS settlement",
+     "summary": "3M will pay up to US$7.35 billion to settle claims over PFAS groundwater contamination; Australia's separate A$2 billion Federal Court case against the company continues.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    }
+   ]
+  },
+  {
+   "title": "Singapore",
+   "items": [
+    {
+     "headline": "DBS third-quarter profit falls 5%, missing forecasts",
+     "summary": "Singapore's largest bank reported net profit of S$2.81 billion, down from S$2.95 billion a year earlier, as trading income slumped even though net interest income rose. DBS warned of uncertainty from high energy prices, higher rates and geopolitical risk.",
+     "source": "Reuters via MarketScreener; The Standard",
+     "url": "https://www.marketscreener.com/news/dbs-group-posts-lower-q3-net-profit-net-interest-income-up-ce785fdcd988f225"
+    },
+    {
+     "headline": "Haze season winds down; masks and shelters end Saturday",
+     "summary": "NEA says inter-monsoon showers have cut the risk of transboundary haze to low. Mask distribution and haze shelters close at 6pm on 7 November, and MOH will end the haze subsidy schemes from 12 November. Friday's PSI is forecast in the moderate range.",
+     "source": "National Environment Agency",
+     "url": "https://www.nea.gov.sg/media/news/advisories/index/haze-situation-update-5-november-2026"
+    }
+   ]
+  },
+  {
+   "title": "Southeast Asia",
+   "items": [
+    {
+     "headline": "Indonesia's growth beats forecasts at 5.47%",
+     "summary": "Indonesia's economy expanded 5.47% year on year in the third quarter, above the 5.18% expected in a Reuters poll, led by manufacturing including palm-oil processing for biodiesel. The central bank called domestic demand resilient.",
+     "source": "Reuters via Business Recorder",
+     "url": "https://www.brecorder.com/news/40447545/indonesia-q3-gdp-growth-at-547-beats-expectations"
+    },
+    {
+     "headline": "Anwar campaigns in Melaka ahead of state polls",
+     "summary": "Malaysian Prime Minister Anwar Ibrahim heads to Melaka on Friday for five engagements, including Pakatan Harapan campaign events. The state votes on 14 November, with early voting on 10 November.",
+     "source": "Malay Mail",
+     "url": "https://malaymail.com/news/malaysia/2026/11/05/anwar-heads-to-melaka-to-drum-up-ph-momentum-ahead-of-nov-14-polls/242034"
+    },
+    {
+     "headline": "Mekong states meet in Beijing; Vietnam and China agree to speed rail links",
+     "summary": "At the 11th Lancang-Mekong foreign ministers' meeting, Vietnam's Le Hoai Trung urged stronger regional links and joint work on non-traditional security threats. He and Wang Yi agreed to accelerate three railway projects; China set out five proposals including AI and disaster-warning cooperation.",
+     "source": "VietnamPlus; Chinese Foreign Ministry",
+     "url": "https://en.vietnamplus.vn/vietnam-proposes-stronger-mekonglancang-connectivity-to-respond-to-challenges-post354852.vnp"
+    }
+   ]
+  },
+  {
+   "title": "Japan",
+   "items": [
+    {
+     "headline": "Takaichi pledges continued cooperation with Trump",
+     "summary": "Prime Minister Sanae Takaichi declined to comment on the US midterm results, calling them an internal matter, but stressed the alliance remains a central pillar of Japan's diplomacy and security.",
+     "source": "Nippon.com (Jiji)",
+     "url": "https://www.nippon.com/en/articles/-/56989"
+    },
+    {
+     "headline": "Nikkei falls for a fourth day as chip stocks slide; Toyota soars",
+     "summary": "The Nikkei 225 lost 1,110 points (1.79%) to 61,077.90, dragged by Advantest, Tokyo Electron and SoftBank Group. Toyota jumped 16.7% after raising its profit forecast.",
+     "source": "News On Japan",
+     "url": "https://newsonjapan.com/article/151257.php"
+    },
+    {
+     "headline": "Beijing attacks Japan's new security documents",
+     "summary": "China's foreign ministry called Tokyo's revised security strategy and defence spending 'remilitarisation', saying the label of China as Japan's greatest strategic challenge is a pretext for military expansion.",
+     "source": "Chinese Foreign Ministry",
+     "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202611/t20261105_12053977.html"
+    }
+   ]
+  },
+  {
+   "title": "South Korea",
+   "items": [
+    {
+     "headline": "Kospi plunges 5.3% as chipmakers tumble",
+     "summary": "The Kospi closed at 5,383.80, with SK hynix down 9.46% and Samsung Electronics down 7.57%, as fears grew that a Democratic Congress could tighten rules on AI data centres and dent chip demand.",
+     "source": "Seoul Economic Daily",
+     "url": "https://en.sedaily.com/finance/2026/11/05/retail-investors-flock-to-virtual-buddhist-temple-as-kospi"
+    },
+    {
+     "headline": "Seoul to move anti-piracy unit closer to Hormuz",
+     "summary": "The defence ministry will seek parliamentary approval to extend the Cheonghae unit's Middle East mission and shift it to waters near Oman's Duqm port, about 650km from the strait, adding a P-8A patrol aircraft and 75 personnel, after US pressure to support the Iran war.",
+     "source": "Reuters via The Standard",
+     "url": "https://www.thestandard.com.hk/world/article/347580/South-Korea-to-expand-anti-piracy-unit-operations-closer-to-Strait-of-Hormuz"
+    },
+    {
+     "headline": "North Korea fires missiles, rejects talks with Washington",
+     "summary": "Pyongyang fired several missiles into the sea off its east coast, hours after denying US claims that its hackers stole more than $6 billion from Binance. Kim Yo Jong ruled out dialogue until Washington drops its 'hostile policy'.",
+     "source": "Al Jazeera",
+     "url": "https://www.aljazeera.com/news/2026/11/4/n-korea-fires-multiple-missiles-denies-us-claims-on-binance-hack"
+    }
+   ]
+  },
+  {
+   "title": "Australia",
+   "items": [
+    {
+     "headline": "David Jones collapses into administration",
+     "summary": "The 188-year-old department store chain called in administrators after falling behind on rent and failing to reach a deal with Westfield owner Scentre, its biggest landlord. Its 38 stores keep trading under receivers while a sale or recapitalisation is pursued, and the network is expected to shrink.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/david-jones-collapses-into-voluntary-administration/107347878"
+    },
+    {
+     "headline": "NAB profit falls 13% as bad-debt charges jump",
+     "summary": "NAB's full-year cash profit fell 13.4% to $6.14 billion, with credit impairment charges up 86% to $1.55 billion. It held its dividend at 85 cents and shares fell about 7.5%.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    },
+    {
+     "headline": "Woodside to cut at least 500 jobs",
+     "summary": "Woodside Energy plans to cut about 10% of its global workforce to save $550 million a year from 2028; most of its staff are in Western Australia.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    },
+    {
+     "headline": "NextDC soars 49% on surprise stake raid",
+     "summary": "A vehicle co-owned by Goodman Group and Digital Realty bought NextDC shares at $9.50, targeting up to 9.9%. NextDC's board called the move opportunistic and said no takeover proposal had been received.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    },
+    {
+     "headline": "ASX 200 rallies 2.6%; Bendigo lifts mortgage rates",
+     "summary": "The ASX 200 closed up 2.61% at 9,065.1 on post-midterm optimism, though energy stocks fell. Bendigo Bank will raise variable home loan rates by 0.25 points after the RBA's fifth hike this year took the cash rate to 4.85%.",
+     "source": "ABC News (Australia)",
+     "url": "https://www.abc.net.au/news/2026-11-05/asx-markets-business-live-news-november-5-2026/107347286"
+    }
+   ]
+  },
+  {
+   "title": "United States",
+   "items": [
+    {
+     "headline": "Democrats head for biggest House majority since 2008",
+     "summary": "By Thursday afternoon Democrats held 251 House seats to 155 for Republicans, and 54 Senate seats to 44, having flipped seven Senate seats, according to AP tallies.",
+     "source": "Yahoo News (AP figures)",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    },
+    {
+     "headline": "Mississippi and Alaska Senate races still too close to call",
+     "summary": "Democrat Scott Colom led Senator Cindy Hyde-Smith by 1,724 votes with 96% counted; Mississippi has no recount law and certification runs to 13 November. In Alaska, Mary Peltola led Senator Dan Sullivan by 637 votes amid a dispute over a second 'Dan Sullivan' on the ballot.",
+     "source": "Yahoo News",
+     "url": "https://www.yahoo.com/news/politics/live/midterms-2026-election-results-and-latest-updates-mississippi-votes-still-being-counted-in-senate-nail-biter-after-democrats-take-control-of-congress-200037541.html"
+    },
+    {
+     "headline": "Jeffries launches speaker bid; Democrats play down impeachment",
+     "summary": "Hakeem Jeffries announced his run for speaker, with Katherine Clark and Pete Aguilar seeking the next two leadership posts unopposed. Democrats say they will focus on costs and accountability rather than impeachment.",
+     "source": "Yahoo News / Straight Arrow News",
+     "url": "https://www.yahoo.com/news/politics/articles/jeffries-prepares-democrats-power-trump-153000246.html"
+    },
+    {
+     "headline": "Trump backs Hegseth publicly amid replacement reports",
+     "summary": "Trump said Defense Secretary Pete Hegseth is doing 'a very good job', but CBS and Fox News reported he is privately weighing a replacement, with Florida Governor Ron DeSantis floated.",
+     "source": "Yahoo News / Straight Arrow News",
+     "url": "https://www.yahoo.com/news/politics/articles/jeffries-prepares-democrats-power-trump-153000246.html"
+    },
+    {
+     "headline": "Melania Trump hosts Ukrainian and Russian officials",
+     "summary": "The first lady hosted officials from both countries at the White House ahead of talks in Abu Dhabi aimed at ending the war. Trump also agreed the Iran war was a factor in the midterm defeat.",
+     "source": "The Standard (Hong Kong)",
+     "url": "https://www.thestandard.com.hk/news/article/347657/Night-Recap-November-5-2026"
+    }
+   ]
+  },
+  {
+   "title": "China",
+   "items": [
+    {
+     "headline": "Import expo opens as surplus heads past $1.2 trillion",
+     "summary": "The 9th China International Import Expo opened in Shanghai with 4,142 companies from 162 countries. Vice Premier Ding Xuexiang called claims that China is squeezing out other economies 'completely unfounded'.",
+     "source": "The Standard; China-Global South Project",
+     "url": "https://www.thestandard.com.hk/news/article/347657/Night-Recap-November-5-2026"
+    },
+    {
+     "headline": "Joshua Wong jailed for 10 years for foreign collusion",
+     "summary": "Hong Kong's High Court sentenced the former Demosisto leader after he pleaded guilty to conspiring to collude with foreign forces. Beijing backed the ruling and told outside parties not to interfere.",
+     "source": "The Standard; Chinese Foreign Ministry",
+     "url": "https://www.thestandard.com.hk/news/article/347657/Night-Recap-November-5-2026"
+    },
+    {
+     "headline": "Beijing seeks 'strategic stability' with US after midterms",
+     "summary": "China's foreign ministry called the midterms a US domestic matter and said Beijing will work with Washington to build a constructive, stable relationship. It declined to comment on SoftBank's reported bid for ABB's robotics unit.",
+     "source": "Chinese Foreign Ministry",
+     "url": "https://www.fmprc.gov.cn/mfa_eng/xw/fyrbt/202611/t20261105_12053977.html"
+    },
+    {
+     "headline": "Hang Seng jumps 3.7% as Hong Kong wealth hits record",
+     "summary": "The Hang Seng rose nearly 900 points, led by tech and gold stocks. A survey put Hong Kong private wealth at a record HK$12.9 trillion in 2025, up 24%.",
+     "source": "The Standard (Hong Kong)",
+     "url": "https://www.thestandard.com.hk/news/article/347657/Night-Recap-November-5-2026"
+    }
+   ]
+  },
+  {
+   "title": "India",
+   "items": [
+    {
+     "headline": "Sensex and Nifty post biggest gains in over a year",
+     "summary": "The Sensex rose 2.6% to 79,310 and the Nifty 2.4% to 24,536.6, a sixth straight gain, as lower oil and hopes for US-Iran diplomacy lifted sentiment; autos and financials led. The rupee firmed to 94.475 per dollar.",
+     "source": "5paisa market update",
+     "url": "https://www.5paisa.com/blog/post-market-update-nifty-sensex-surge-2-4-percent-sixth-straight-session-november-5-2026"
+    },
+    {
+     "headline": "Cabinet extends Agniveer service by two years",
+     "summary": "The Union Cabinet approved a two-year extension for Agniveers, opening a route to regular military service; the Indian Express says it covers 75% of recruits.",
+     "source": "The Hindu; Indian Express (via NextIAS digest)",
+     "url": "https://www.nextias.com/ca/headlines-of-the-day/05-11-2026/88000"
+    },
+    {
+     "headline": "Supreme Court questions two-child norm laws",
+     "summary": "The court said falling fertility has made laws penalising breach of the two-child norm outdated, and referred its 2003 ruling to a larger bench.",
+     "source": "The Hindu; Indian Express (via NextIAS digest)",
+     "url": "https://www.nextias.com/ca/headlines-of-the-day/05-11-2026/88000"
+    },
+    {
+     "headline": "Government weighs ending safe harbour for social media",
+     "summary": "The Centre is considering scrapping the legal immunity social media platforms enjoy for user content.",
+     "source": "Indian Express (via NextIAS digest)",
+     "url": "https://www.nextias.com/ca/headlines-of-the-day/05-11-2026/88000"
+    },
+    {
+     "headline": "₹17,500 crore scheme to boost energy storage",
+     "summary": "The government approved a ₹17,500 crore programme to promote energy storage systems, while India said it has secured $400 billion in renewable investment commitments.",
+     "source": "Indian Express; The Hindu (via NextIAS digest)",
+     "url": "https://www.nextias.com/ca/headlines-of-the-day/05-11-2026/88000"
+    }
+   ]
+  }
+ ]
+}
