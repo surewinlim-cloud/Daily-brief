@@ -15,21 +15,12 @@
   },
   {
    "key": "earnings",
-   "title": "Earnings Brief",
+   "title": "Tech Earnings",
    "digests": "digests/earnings",
-   "editions": "editions/earnings",
-   "prefix": "earnings-brief",
-   "blurb": "Earnings results and what changed",
+   "editions": "editions/tech-earnings",
+   "prefix": "tech-earnings",
+   "blurb": "Post-earnings debrief on the big tech reports",
    "unit": "items"
   }
- ],
- "earnings_watchlist": [
-  "NOW",
-  "NFLX",
-  "CLSK",
-  "CRM",
-  "PINS",
-  "ONON",
-  "TTD"
  ]
 }

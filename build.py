@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 """Daily Brief builder.
 
-Builds one EPUB per digest for each series in config.json:
+Builds one EPUB per digest for each series in config.json.
+Digests are temporary working files (git-ignored); after a build only the
+EPUBs and feeds are kept. The catalog summary is stored inside each EPUB.
   daily     digests/daily/YYYY-MM-DD.json    -> editions/daily/daily-brief-YYYY-MM-DD.epub
   earnings  digests/earnings/YYYY-MM-DD.json -> editions/earnings/earnings-brief-YYYY-MM-DD.epub
 then regenerates the OPDS catalog and index.html:
@@ -113,6 +115,24 @@ def pretty_date(d):
     return d.strftime("%A, %d %B %Y").replace(" 0", " ")
 
 
+def catalog_summary(series, data):
+    secs = [s for s in data["sections"] if s.get("items")]
+    return data.get("summary") or (
+        f"{sum(len(s['items']) for s in secs)} {series.unit}: " + ", ".join(s["title"] for s in secs))
+
+
+def epub_summary(ep: Path) -> str:
+    """Read the catalog summary stored in the EPUB's OPF (dc:description)."""
+    import re
+    try:
+        with zipfile.ZipFile(ep) as z:
+            opf = z.read("OEBPS/content.opf").decode("utf-8")
+        m = re.search(r"<dc:description>(.*?)</dc:description>", opf, re.S)
+        return html.unescape(m.group(1)) if m else ""
+    except Exception:
+        return ""
+
+
 def build_epub(series: Series, digest_path: Path) -> Path:
     data = json.loads(digest_path.read_text(encoding="utf-8"))
     date = dt.date.fromisoformat(data["date"])
@@ -208,6 +228,7 @@ def build_epub(series: Series, digest_path: Path) -> Path:
 <dc:language>en</dc:language>
 <dc:date>{date.isoformat()}</dc:date>
 <dc:publisher>{esc(stitle)}</dc:publisher>
+<dc:description>{esc(catalog_summary(series, data))}</dc:description>
 <meta property="dcterms:modified">{modified}</meta>
 </metadata>
 <manifest>
@@ -264,13 +285,7 @@ def edition_entries(series: Series):
     for ep in series.epubs(reverse=True):
         d = ep.stem.replace(series.prefix + "-", "")
         date = dt.date.fromisoformat(d)
-        digest = series.digests / f"{d}.json"
-        summary = ""
-        if digest.exists():
-            dd = json.loads(digest.read_text(encoding="utf-8"))
-            secs = [s for s in dd["sections"] if s.get("items")]
-            summary = dd.get("summary") or (
-                f"{sum(len(s['items']) for s in secs)} {series.unit}: " + ", ".join(s["title"] for s in secs))
+        summary = epub_summary(ep)
         title = f"{series.title} — {date.strftime('%a %d %b %Y')}"
         updated = dt.datetime.combine(date, dt.time(7, 30), LOCAL_TZ).astimezone(dt.timezone.utc)
         newest = newest or updated
