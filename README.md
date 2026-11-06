@@ -9,7 +9,7 @@ A daily world-business and Asia-Pacific news briefing plus an earnings brief, wr
 ## How it works
 | Series | Digest | EPUB | Feed |
 | --- | --- | --- | --- |
-| Daily Brief | `digests/YYYY-MM-DD.json` | `editions/daily-brief-YYYY-MM-DD.epub` | `opds/daily.xml` |
+| Daily Brief | `digests/daily/YYYY-MM-DD.json` | `editions/daily/daily-brief-YYYY-MM-DD.epub` | `opds/daily.xml` |
 | Earnings Brief | `digests/earnings/YYYY-MM-DD.json` | `editions/earnings/earnings-brief-YYYY-MM-DD.epub` | `opds/earnings.xml` |
 
 `opds.xml` is the navigation root that links to each series feed. Series are defined in `config.json` (`series`), and the earnings watchlist is in `earnings_watchlist`. To add a new folder, add a series entry and a digests directory.

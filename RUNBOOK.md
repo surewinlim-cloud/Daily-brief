@@ -1,7 +1,7 @@
 # Daily Brief — run instructions (followed by the 7:30am SGT scheduled task)
 
 Each run produces TWO editions, both published to the same OPDS catalog, where they appear as folders:
-- **Daily Brief** (news) — `digests/YYYY-MM-DD.json` → `editions/daily-brief-YYYY-MM-DD.epub`
+- **Daily Brief** (news) — `digests/daily/YYYY-MM-DD.json` → `editions/daily/daily-brief-YYYY-MM-DD.epub`
 - **Earnings Brief** — `digests/earnings/YYYY-MM-DD.json` → `editions/earnings/earnings-brief-YYYY-MM-DD.epub`
 
 Do the Daily Brief first; it must never be delayed by the earnings work.
@@ -55,7 +55,7 @@ Rules: same sourcing, copyright and no-memory rules as the Daily Brief. Do not c
 - When two sources disagree on a number, prefer the company release, then Reuters/CNBC; drop the figure if still unclear.
 
 ## Build and publish
-1. Write `digests/YYYY-MM-DD.json` (schema in build.py; copy the shape of the previous day's file).
+1. Write `digests/daily/YYYY-MM-DD.json` (schema in build.py; copy the shape of the previous day's file).
 2. Write `digests/earnings/YYYY-MM-DD.json` (same schema plus optional `figures` per item; copy the previous earnings file).
 3. `python3 -I build.py YYYY-MM-DD` builds the daily EPUB; `python3 -I build.py --series earnings YYYY-MM-DD` builds the earnings EPUB. Each prunes to the last 14 and regenerates `opds.xml` (folder root), `opds/daily.xml`, `opds/earnings.xml` and `index.html`.
 4. Check: unzip each new EPUB and parse every .xhtml/.opf/.ncx with lxml; also parse `opds.xml` and `opds/*.xml`. Fix any errors.

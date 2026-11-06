@@ -2,7 +2,7 @@
 """Daily Brief builder.
 
 Builds one EPUB per digest for each series in config.json:
-  daily     digests/YYYY-MM-DD.json          -> editions/daily-brief-YYYY-MM-DD.epub
+  daily     digests/daily/YYYY-MM-DD.json    -> editions/daily/daily-brief-YYYY-MM-DD.epub
   earnings  digests/earnings/YYYY-MM-DD.json -> editions/earnings/earnings-brief-YYYY-MM-DD.epub
 then regenerates the OPDS catalog and index.html:
   opds.xml            navigation root: one folder per series
@@ -47,7 +47,7 @@ AUTHOR = CONFIG.get("author", "Claude")
 LOCAL_TZ = dt.timezone(dt.timedelta(hours=8))  # Singapore
 
 DEFAULT_SERIES = [
-    {"key": "daily", "title": TITLE, "digests": "digests", "editions": "editions", "prefix": "daily-brief",
+    {"key": "daily", "title": TITLE, "digests": "digests/daily", "editions": "editions/daily", "prefix": "daily-brief",
      "blurb": "Daily news briefing", "unit": "stories"},
     {"key": "earnings", "title": "Earnings Brief", "digests": "digests/earnings", "editions": "editions/earnings",
      "prefix": "earnings-brief", "blurb": "Earnings results and what changed", "unit": "items"},

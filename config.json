@@ -7,8 +7,8 @@
   {
    "key": "daily",
    "title": "Daily Brief",
-   "digests": "digests",
-   "editions": "editions",
+   "digests": "digests/daily",
+   "editions": "editions/daily",
    "prefix": "daily-brief",
    "blurb": "Daily news briefing",
    "unit": "stories"
