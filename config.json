@@ -1,1 +1,35 @@
-{"base_url": "https://surewinlim-cloud.github.io/Daily-brief", "keep_editions": 14, "title": "Daily Brief", "author": "Claude"}
+{
+ "base_url": "https://surewinlim-cloud.github.io/Daily-brief",
+ "keep_editions": 14,
+ "title": "Daily Brief",
+ "author": "Claude",
+ "series": [
+  {
+   "key": "daily",
+   "title": "Daily Brief",
+   "digests": "digests",
+   "editions": "editions",
+   "prefix": "daily-brief",
+   "blurb": "Daily news briefing",
+   "unit": "stories"
+  },
+  {
+   "key": "earnings",
+   "title": "Earnings Brief",
+   "digests": "digests/earnings",
+   "editions": "editions/earnings",
+   "prefix": "earnings-brief",
+   "blurb": "Earnings results and what changed",
+   "unit": "items"
+  }
+ ],
+ "earnings_watchlist": [
+  "NOW",
+  "NFLX",
+  "CLSK",
+  "CRM",
+  "PINS",
+  "ONON",
+  "TTD"
+ ]
+}

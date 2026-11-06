@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
+  <title>Earnings Brief</title>
+  <updated>2026-11-06T00:52:19Z</updated>
+  <author><name>Claude</name></author>
+  <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Earnings Brief — Fri 06 Nov 2026</title>
+    <id>urn:uuid:c0176ba5-c94f-5810-9cfd-30af1216a86d</id>
+    <updated>2026-11-05T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Cloudflare and Airbnb jump, Atlassian and DraftKings sink, Singapore banks mixed. Your holdings: TTD reports Mon 9 Nov.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/earnings/earnings-brief-2026-11-06.epub" type="application/epub+zip"/>
+  </entry>
+</feed>

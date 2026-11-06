@@ -1,99 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
-  <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
+  <id>urn:uuid:d090ac8e-958d-5a28-90cf-9f1ad53110b0</id>
   <title>Daily Brief</title>
-  <updated>2026-11-05T23:02:59Z</updated>
+  <updated>2026-11-06T00:52:19Z</updated>
   <author><name>Claude</name></author>
-  <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
-  <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
+  <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Daily Brief — Fri 06 Nov 2026</title>
-    <id>urn:uuid:ccfe28b6-d284-55de-9cb8-65a5fdb77f48</id>
+    <title>Daily Brief</title>
+    <id>urn:uuid:91b39759-56a9-573f-be96-1ee77abb81b2</id>
     <updated>2026-11-05T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>40 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-06.epub" type="application/epub+zip"/>
+    <content type="text">Daily news briefing — 10 editions, latest: Fri 06 Nov</content>
+    <link rel="subsection" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
-    <title>Daily Brief — Thu 05 Nov 2026</title>
-    <id>urn:uuid:afd2e395-b6d7-53b1-bd3b-39b9843532d8</id>
-    <updated>2026-11-04T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>41 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-05.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Wed 04 Nov 2026</title>
-    <id>urn:uuid:85eca1e1-24a4-5d8e-a0af-ee7753bafe07</id>
-    <updated>2026-11-03T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>43 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-04.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Tue 03 Nov 2026</title>
-    <id>urn:uuid:9ebb7793-221c-55ca-8acd-7cac1cb8bde1</id>
-    <updated>2026-11-02T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>42 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-03.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Mon 02 Nov 2026</title>
-    <id>urn:uuid:c845b667-3f57-5bdc-9b6e-7278e273f994</id>
-    <updated>2026-11-01T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>40 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-02.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Sun 01 Nov 2026</title>
-    <id>urn:uuid:864ec6bf-c92f-5728-93db-67467dddee5d</id>
-    <updated>2026-10-31T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>28 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-11-01.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Sat 31 Oct 2026</title>
-    <id>urn:uuid:ca065c85-95c5-59f9-8a6e-fca7d4a1ff56</id>
-    <updated>2026-10-30T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>40 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-10-31.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Fri 30 Oct 2026</title>
-    <id>urn:uuid:247de772-0972-5609-b454-4511b437da0d</id>
-    <updated>2026-10-29T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>36 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-10-30.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Thu 29 Oct 2026</title>
-    <id>urn:uuid:78c39a3e-1ee5-5b3d-bcf8-2df3dedf277c</id>
-    <updated>2026-10-28T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>34 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-10-29.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Wed 28 Oct 2026</title>
-    <id>urn:uuid:172444fd-d86e-5a67-91ca-ebbb31b984a0</id>
-    <updated>2026-10-27T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>50 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily-brief-2026-10-28.epub" type="application/epub+zip"/>
+    <title>Earnings Brief</title>
+    <id>urn:uuid:15bf166f-7074-5225-a585-2f60fad568d1</id>
+    <updated>2026-11-05T23:30:00Z</updated>
+    <content type="text">Earnings results and what changed — 1 editions, latest: Fri 06 Nov</content>
+    <link rel="subsection" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
 </feed>
