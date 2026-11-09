@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
   <title>Tech Earnings</title>
-  <updated>2026-11-08T23:05:48Z</updated>
+  <updated>2026-11-09T23:02:41Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Tech Earnings — Tue 10 Nov 2026</title>
+    <id>urn:uuid:a45d44f2-8416-5ac3-83cd-ba1958bbc309</id>
+    <updated>2026-11-09T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Trade Desk +23% and Sanmina +22% after hours on big beats; Digital Turbine -21% and Monday.com -7% on guidance.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-10.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Tech Earnings — Fri 06 Nov 2026</title>
     <id>urn:uuid:c0176ba5-c94f-5810-9cfd-30af1216a86d</id>

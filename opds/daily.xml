@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-08T23:05:48Z</updated>
+  <updated>2026-11-09T23:02:41Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Tue 10 Nov 2026</title>
+    <id>urn:uuid:a5e7d9e6-329e-5b08-8a69-61af3b1db120</id>
+    <updated>2026-11-09T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Nvidia sheds 4% on Huang probe as Wall Street rallies; China extends US trade truce to January; Coupang and Baemin hit with record Korean fines.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-10.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Mon 09 Nov 2026</title>
     <id>urn:uuid:b7e406af-1807-5d71-ab6d-360c72ce4922</id>
