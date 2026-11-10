@@ -35,6 +35,7 @@ import datetime as dt
 import html
 import json
 import os
+import re
 import sys
 import uuid
 import zipfile
@@ -44,6 +45,7 @@ ROOT = Path(__file__).resolve().parent
 CONFIG = json.loads((ROOT / "config.json").read_text()) if (ROOT / "config.json").exists() else {}
 BASE_URL = CONFIG.get("base_url", "").rstrip("/")
 KEEP = int(CONFIG.get("keep_editions", 14))
+KEEP_DAYS = CONFIG.get("keep_days")  # if set, delete editions dated more than this many days before today (SGT)
 TITLE = CONFIG.get("title", "Daily Brief")
 AUTHOR = CONFIG.get("author", "Claude")
 LOCAL_TZ = dt.timezone(dt.timedelta(hours=8))  # Singapore
@@ -264,7 +266,16 @@ def url(path):
 
 def prune(series: Series):
     eps = series.epubs()
-    for old in eps[:-KEEP] if len(eps) > KEEP else []:
+    if KEEP_DAYS is not None:
+        cutoff = dt.datetime.now(LOCAL_TZ).date() - dt.timedelta(days=int(KEEP_DAYS))
+        doomed = []
+        for ep in eps:
+            m = re.search(r"\d{4}-\d{2}-\d{2}", ep.name)
+            if m and dt.date.fromisoformat(m.group(0)) < cutoff:
+                doomed.append(ep)
+    else:
+        doomed = eps[:-KEEP] if len(eps) > KEEP else []
+    for old in doomed:
         old.unlink()
         print(f"pruned {old.relative_to(ROOT)}")
 

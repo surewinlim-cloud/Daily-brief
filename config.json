@@ -1,6 +1,7 @@
 {
  "base_url": "https://surewinlim-cloud.github.io/Daily-brief",
  "keep_editions": 14,
+ "keep_days": 3,
  "title": "Daily Brief",
  "author": "Claude",
  "series": [

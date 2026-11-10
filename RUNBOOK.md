@@ -62,7 +62,7 @@ Rules: same sourcing, copyright and no-memory rules as the Daily Brief. Do not c
 ## Build and publish
 1. Write `digests/daily/YYYY-MM-DD.json` using the schema in build.py's docstring. To avoid repeating yesterday's stories, read yesterday's EPUB (unzip `editions/daily/…` and skim the .xhtml).
 2. If there is a Tech Earnings edition, write `digests/earnings/YYYY-MM-DD.json` (same schema, plus optional `figures` per item).
-3. `python3 -I build.py YYYY-MM-DD` builds the daily EPUB, and `python3 -I build.py --series earnings YYYY-MM-DD` builds the Tech Earnings EPUB. Each one prunes to the last 14 and regenerates `opds.xml` (folder root), `opds/daily.xml`, `opds/earnings.xml` and `index.html`.
+3. `python3 -I build.py YYYY-MM-DD` builds the daily EPUB, and `python3 -I build.py --series earnings YYYY-MM-DD` builds the Tech Earnings EPUB. Each one deletes editions dated more than 3 calendar days before today, SGT (`keep_days` in config.json; e.g. on the 10th it keeps the 7th–10th), and regenerates `opds.xml` (folder root), `opds/daily.xml`, `opds/earnings.xml` and `index.html`.
 4. Check: unzip each new EPUB and parse every .xhtml/.opf/.ncx with lxml. Also parse `opds.xml` and `opds/*.xml`. Fix any errors.
-5. Commit and push to main of github.com/surewinlim-cloud/Daily-brief (message: "Daily Brief YYYY-MM-DD", adding "+ Tech Earnings" when published). `digests/` is git-ignored, so it is never committed.
+5. Commit and push to main (including the deletions of pruned EPUBs, e.g. `git add -A editions`) of github.com/surewinlim-cloud/Daily-brief (message: "Daily Brief YYYY-MM-DD", adding "+ Tech Earnings" when published). `digests/` is git-ignored, so it is never committed.
 6. Send the EPUBs to the user with SendUserFile as a backup. Include one line naming the 2–3 biggest stories and, if there is a Tech Earnings edition, one line on its biggest mover.

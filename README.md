@@ -14,7 +14,7 @@ A daily world-business and Asia-Pacific news briefing plus a post-earnings tech 
 
 `opds.xml` is the navigation root that links to each series feed. Series are defined in `config.json` (`series`).
 Each edition is built from a JSON digest (`digests/<series>/YYYY-MM-DD.json`). Digests are temporary and git-ignored. The catalog summary is stored inside each EPUB, so the feeds can be regenerated without them.
-The build uses the Python standard library only. It keeps the 14 most recent editions per series.
+The build uses the Python standard library only. It deletes editions dated more than 3 calendar days before today (Singapore time), set by `keep_days` in config.json.
 
 Content rules and the daily procedure are in [RUNBOOK.md](RUNBOOK.md).
 
