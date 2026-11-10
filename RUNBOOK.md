@@ -53,6 +53,20 @@ Item format:
 
 Rules: same sourcing, copyright and no-memory rules as the Daily Brief. Do not cite third-party fair-value/DCF numbers. Not investment advice.
 
+## 3. TLDR Pre-Market — consolidated newsletter edition (separate 5pm SGT run)
+Output: `editions/tldr/tldr-premarket-YYYY-MM-DD.epub` (Singapore date of the run), shown as the "TLDR Pre-Market" folder. Digest: `digests/tldr/YYYY-MM-DD.json` (git-ignored).
+
+Input: every TLDR newsletter in Sherwin's Gmail (sender `dan@tldrnewsletter.com`; TLDR, TLDR AI, IT, Hardware, Fintech, Data, Design, Marketing, plus any others he subscribes to) received since the previous run (~5pm SGT the day before). Search `from:tldrnewsletter.com newer_than:2d`, keep messages whose date falls in the window, and read each with get_thread (PLAIN_TEXT). Skip signup/confirmation emails. TLDR issues usually land 7–11:30pm SGT, so the 5pm edition normally carries the previous evening's issues. If there are none in the window (weekends, holidays), skip the edition.
+
+Editorial rules:
+- Consolidate, don't concatenate: merge the same story across newsletters into one item and list every newsletter it came from in `source` (e.g. "TLDR AI, TLDR IT · TechCrunch").
+- Drop all sponsored items (marked "(Sponsor)"), TLDR self-promotion, referral/job blurbs, webinars and ads posing as tools.
+- Sections, in this order (drop empty ones): Market movers (listed companies, funding/valuations, deals, earnings, capex — what matters before the US open); AI; Big tech, hardware and science; Fintech and commerce; Dev, data and IT; Marketing and design.
+- Each item: one-line headline, 1–2 sentence summary in your own words (do not copy TLDR's text), `source` as above, and `url` = the original article link from the newsletter's link list with `utm_*` parameters removed (keep `links.tldrnewsletter.com` short links as they are).
+- Top-level `summary`: one line of the 3–4 biggest market-relevant items. Keep the Anthropic disclosure in `note` when Anthropic appears.
+
+Build: `python3 -I build.py --series tldr YYYY-MM-DD`, validate the EPUB and feeds with lxml, commit and push ("TLDR Pre-Market YYYY-MM-DD", `git add -A editions opds opds.xml index.html`), then SendUserFile the EPUB.
+
 ## Research tips
 - Use WebSearch with mode "extended", WITHOUT allowed_domains (the domain filter is rejected). Put the date and outlet in the query, e.g. "Japan news October 28 2026 Reuters".
 - Reuters/CNA/BBC pages often can't be fetched directly; syndicated Reuters copies (Yahoo Finance, Investing.com, MarketScreener, The Star) are fine — attribute to Reuters.
