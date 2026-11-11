@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-11T08:51:13Z</updated>
+  <updated>2026-11-11T23:07:05Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Thu 12 Nov 2026</title>
+    <id>urn:uuid:7c8af93a-2465-591d-957c-0393d0645b13</id>
+    <updated>2026-11-11T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>CoreWeave jumps ~24% as AI trade returns; Wang Yi–Rubio call ahead of APEC; Japan top court rules 2025 Upper House vote unconstitutional</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-12.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Wed 11 Nov 2026</title>
     <id>urn:uuid:b9e359cf-3e41-5823-88d3-61aa9eb2ae69</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>49 stories: World Business: Tech, World Business: Finance &amp; Markets, Singapore, Southeast Asia, Japan, South Korea, Australia, United States, China, India</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-09.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Sun 08 Nov 2026</title>
-    <id>urn:uuid:94391659-26e1-5e5a-9ede-05ceaeee07d3</id>
-    <updated>2026-11-07T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>US officials&#x27; spy concerns over a woman close to Nvidia&#x27;s Jensen Huang; China confirms talks on a Xi-Trump-Putin meeting; Democrats projected to win both chambers of Congress.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-08.epub" type="application/epub+zip"/>
   </entry>
 </feed>

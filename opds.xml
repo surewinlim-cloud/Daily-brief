@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:d090ac8e-958d-5a28-90cf-9f1ad53110b0</id>
   <title>Daily Brief</title>
-  <updated>2026-11-11T08:51:13Z</updated>
+  <updated>2026-11-11T23:07:05Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
     <title>Daily Brief</title>
     <id>urn:uuid:91b39759-56a9-573f-be96-1ee77abb81b2</id>
-    <updated>2026-11-10T23:30:00Z</updated>
-    <content type="text">Daily news briefing — 4 editions, latest: Wed 11 Nov</content>
+    <updated>2026-11-11T23:30:00Z</updated>
+    <content type="text">Daily news briefing — 4 editions, latest: Thu 12 Nov</content>
     <link rel="subsection" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   </entry>
   <entry>
