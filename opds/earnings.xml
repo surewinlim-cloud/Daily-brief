@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
   <title>Tech Earnings</title>
-  <updated>2026-11-12T08:49:27Z</updated>
+  <updated>2026-11-12T23:10:19Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Tech Earnings — Fri 13 Nov 2026</title>
+    <id>urn:uuid:d9b89064-757b-5a48-b0e3-3b00df7efb96</id>
+    <updated>2026-11-12T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Nebius -17% on trimmed 2026 outlook; Cerebras +14% after hours on strong guide; Cisco beats and raises; Applied Materials guides above estimates</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-13.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Tech Earnings — Wed 11 Nov 2026</title>
     <id>urn:uuid:4f3d5249-8d42-56d1-9fa0-aa6dd21be507</id>
