@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:8a11ee9a-4bb0-5259-863b-600e32b4367e</id>
   <title>TLDR Pre-Market</title>
-  <updated>2026-11-13T23:05:59Z</updated>
+  <updated>2026-11-14T08:49:43Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/tldr.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>TLDR Pre-Market — Sat 14 Nov 2026</title>
+    <id>urn:uuid:bba880f9-164f-5e9d-8d45-13a266d0eb50</id>
+    <updated>2026-11-13T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Huang quits as Nvidia CEO (Kress interim, results 17 Nov); SpaceX–Tesla merger could land in December; Cisco lifts hyperscaler AI forecast to $9bn; Chinese AI models show Blackwell fingerprints.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-14.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>TLDR Pre-Market — Fri 13 Nov 2026</title>
     <id>urn:uuid:47378633-2bd3-52dd-a9dc-cac40e405327</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Anthropic pushes ahead with IPO next week; Google&#x27;s new TPUs vs Nvidia; Nvidia faces shareholder suits over Huang affair; Anthropic&#x27;s $3.4bn gas-turbine buy.</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-11.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>TLDR Pre-Market — Tue 10 Nov 2026</title>
-    <id>urn:uuid:82e12d71-19e9-5529-95dc-7c513ab15316</id>
-    <updated>2026-11-09T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Nvidia probes its CEO; OpenAI raises $11bn at $1.25tn; Groq seeks $8bn; Google&#x27;s $17bn Wyoming campus.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-10.epub" type="application/epub+zip"/>
   </entry>
 </feed>
