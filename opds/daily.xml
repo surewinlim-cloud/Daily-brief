@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-14T23:08:50Z</updated>
+  <updated>2026-11-15T23:06:27Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Mon 16 Nov 2026</title>
+    <id>urn:uuid:1c422dab-d595-5ebe-a959-59ef0321651b</id>
+    <updated>2026-11-15T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Bessent demands Nvidia shake-up; Anthropic IPO week; ASEAN summit opens in Manila; Australia-Philippines defence pact</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-16.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Sun 15 Nov 2026</title>
     <id>urn:uuid:223b59f1-158f-501d-9bfe-8ba74bb038f7</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Nvidia&#x27;s Jensen Huang resigns; 10-year Treasury yield tops 5%; Indonesia&#x27;s VP Gibran quits; India inflation breaches RBI band</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-13.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Thu 12 Nov 2026</title>
-    <id>urn:uuid:7c8af93a-2465-591d-957c-0393d0645b13</id>
-    <updated>2026-11-11T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>CoreWeave jumps ~24% as AI trade returns; Wang Yi–Rubio call ahead of APEC; Japan top court rules 2025 Upper House vote unconstitutional</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-12.epub" type="application/epub+zip"/>
   </entry>
 </feed>
