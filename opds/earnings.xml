@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
   <title>Tech Earnings</title>
-  <updated>2026-11-17T23:08:38Z</updated>
+  <updated>2026-11-17T23:09:16Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Tech Earnings — Wed 18 Nov 2026</title>
+    <id>urn:uuid:13d2c37b-74d4-55e0-8645-d368cfca36a0</id>
+    <updated>2026-11-17T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Nvidia beats and guides to ~$130bn, shares edge up after hours; Dolby falls ~5% after hours on a flat FY27 outlook.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-18.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Tech Earnings — Tue 17 Nov 2026</title>
     <id>urn:uuid:02c901ca-3fb9-5214-920c-2e1d16213993</id>
