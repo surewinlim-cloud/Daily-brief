@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
   <title>Tech Earnings</title>
-  <updated>2026-11-18T23:08:28Z</updated>
+  <updated>2026-11-18T23:08:58Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Tech Earnings — Thu 19 Nov 2026</title>
+    <id>urn:uuid:58a122f4-c857-50e2-a40a-044249a8f8b9</id>
+    <updated>2026-11-18T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Palo Alto +~8% after hours on a beat-and-raise and an AI acquisition; Everpure +~3% as revenue jumps 51%</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-19.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Tech Earnings — Wed 18 Nov 2026</title>
     <id>urn:uuid:13d2c37b-74d4-55e0-8645-d368cfca36a0</id>
