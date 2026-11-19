@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-19T08:50:00Z</updated>
+  <updated>2026-11-19T23:07:05Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Fri 20 Nov 2026</title>
+    <id>urn:uuid:6937a7ad-fca0-597f-8664-904214c056d5</id>
+    <updated>2026-11-19T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Anthropic surges 17% in record Nasdaq debut; Dow sheds 1,100 points; Xi, Trump and Putin issue Shenzhen peace declaration</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-20.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Thu 19 Nov 2026</title>
     <id>urn:uuid:226a15f0-0e2d-53ad-b353-e40280646187</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Nvidia scandal widens via Singapore&#x27;s Megaspeed; Wall St tech rout before Nvidia results; ASEAN summit in Manila</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-17.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Mon 16 Nov 2026</title>
-    <id>urn:uuid:1c422dab-d595-5ebe-a959-59ef0321651b</id>
-    <updated>2026-11-15T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Bessent demands Nvidia shake-up; Anthropic IPO week; ASEAN summit opens in Manila; Australia-Philippines defence pact</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-16.epub" type="application/epub+zip"/>
   </entry>
 </feed>
