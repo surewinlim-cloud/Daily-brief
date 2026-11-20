@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-20T08:50:33Z</updated>
+  <updated>2026-11-20T23:08:27Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Sat 21 Nov 2026</title>
+    <id>urn:uuid:1caec343-7a68-5fe5-a99d-c2b26cebf1b6</id>
+    <updated>2026-11-20T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>S&amp;P 500 and Dow fall into correction as chip stocks crater; SEC probe of Nvidia reportedly examines accounting; Asia suffers worst week since 2020.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-21.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Fri 20 Nov 2026</title>
     <id>urn:uuid:6937a7ad-fca0-597f-8664-904214c056d5</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Nvidia beats and guides to ~$130bn; Dow sheds 849 points; Trump meets the Quad in Manila; Kospi falls below 5,000.</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-18.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Tue 17 Nov 2026</title>
-    <id>urn:uuid:3d24ee12-fb3d-52ce-87e6-ce92b5c000c1</id>
-    <updated>2026-11-16T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Nvidia scandal widens via Singapore&#x27;s Megaspeed; Wall St tech rout before Nvidia results; ASEAN summit in Manila</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-17.epub" type="application/epub+zip"/>
   </entry>
 </feed>
