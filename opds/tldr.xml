@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:8a11ee9a-4bb0-5259-863b-600e32b4367e</id>
   <title>TLDR Pre-Market</title>
-  <updated>2026-11-20T23:08:27Z</updated>
+  <updated>2026-11-21T08:49:29Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/tldr.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>TLDR Pre-Market — Sat 21 Nov 2026</title>
+    <id>urn:uuid:c9c7e2e6-d6ba-51c8-ba3e-05a1c413db2d</id>
+    <updated>2026-11-20T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Anthropic ends debut at $1.8tn; California subpoenas Nvidia over China chips; Palo Alto buys Applied Compute for $4.5bn; Microsoft–Intel foundry pact.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-21.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>TLDR Pre-Market — Fri 20 Nov 2026</title>
     <id>urn:uuid:bd215bc5-3179-5917-9124-cbf951afba3b</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Trump backs a Jensen Huang return as Nvidia&#x27;s board hunts for a new CEO; US closes the offshore cloud loophole on AI chips for China; Tesla commits €3bn to a Cybercab plant in Berlin; Nvidia unveils the Rubin HPC GPU.</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-18.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>TLDR Pre-Market — Tue 17 Nov 2026</title>
-    <id>urn:uuid:122894f3-23ac-58ef-b2dd-a83536cec62c</id>
-    <updated>2026-11-16T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Nvidia petition to reinstate Huang grows; Applied Materials revenue +53%; Kalshi eyes $65bn valuation; OpenAI launches ChatGPT Wallet with Visa, Mastercard and Amex.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-17.epub" type="application/epub+zip"/>
   </entry>
 </feed>
