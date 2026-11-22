@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-21T23:06:35Z</updated>
+  <updated>2026-11-22T23:02:26Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Mon 23 Nov 2026</title>
+    <id>urn:uuid:0ca0a9d1-bae3-5f89-9d7c-4c7804d1230f</id>
+    <updated>2026-11-22T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Wall St correction deepens Fed-hike fears; SEC reportedly probes Nvidia accounting; Victorian Labor braces for heavy defeat; Korea&#x27;s education minister quits over Suneung.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-23.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Sun 22 Nov 2026</title>
     <id>urn:uuid:565185f1-f8b4-5dce-a705-78ad91f4d220</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Anthropic surges 17% in record Nasdaq debut; Dow sheds 1,100 points; Xi, Trump and Putin issue Shenzhen peace declaration</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-20.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Thu 19 Nov 2026</title>
-    <id>urn:uuid:226a15f0-0e2d-53ad-b353-e40280646187</id>
-    <updated>2026-11-18T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Anthropic prices IPO at $83 ahead of Nasdaq debut; Fed minutes point to more hikes; Trump, Xi and Putin meet in Shenzhen</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-19.epub" type="application/epub+zip"/>
   </entry>
 </feed>
