@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-22T23:02:26Z</updated>
+  <updated>2026-11-23T23:05:34Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Tue 24 Nov 2026</title>
+    <id>urn:uuid:13bb9259-9cf2-52e6-8ec5-bb54e6a84068</id>
+    <updated>2026-11-23T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Nvidia reinstates Jensen Huang and the S&amp;P 500 posts its best day in 18 months; CrowdStrike to buy Zscaler; COP31 collapses</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-24.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Mon 23 Nov 2026</title>
     <id>urn:uuid:0ca0a9d1-bae3-5f89-9d7c-4c7804d1230f</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>S&amp;P 500 and Dow fall into correction as chip stocks crater; SEC probe of Nvidia reportedly examines accounting; Asia suffers worst week since 2020.</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-21.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Fri 20 Nov 2026</title>
-    <id>urn:uuid:6937a7ad-fca0-597f-8664-904214c056d5</id>
-    <updated>2026-11-19T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Anthropic surges 17% in record Nasdaq debut; Dow sheds 1,100 points; Xi, Trump and Putin issue Shenzhen peace declaration</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-20.epub" type="application/epub+zip"/>
   </entry>
 </feed>
