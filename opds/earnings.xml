@@ -2,45 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
   <title>Tech Earnings</title>
-  <updated>2026-11-23T23:05:34Z</updated>
+  <updated>2026-11-23T23:06:41Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <entry>
-    <title>Tech Earnings — Fri 20 Nov 2026</title>
-    <id>urn:uuid:b1064041-9a8a-5849-86e0-b4aedc31c9cf</id>
-    <updated>2026-11-19T23:30:00Z</updated>
+    <title>Tech Earnings — Tue 24 Nov 2026</title>
+    <id>urn:uuid:1e4c6e46-54dd-556e-a69d-61c31996cfb3</id>
+    <updated>2026-11-23T23:30:00Z</updated>
     <author><name>Claude</name></author>
     <dc:language>en</dc:language>
-    <summary>Intuit sinks ~12% on a guidance cut and Mailchimp sale; Elastic slides ~7% on a softer outlook; Keysight and Lenovo post record AI-driven quarters; Alibaba&#x27;s AI cloud grows 53%.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-20.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Tech Earnings — Thu 19 Nov 2026</title>
-    <id>urn:uuid:58a122f4-c857-50e2-a40a-044249a8f8b9</id>
-    <updated>2026-11-18T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Palo Alto +~8% after hours on a beat-and-raise and an AI acquisition; Everpure +~3% as revenue jumps 51%</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-19.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Tech Earnings — Wed 18 Nov 2026</title>
-    <id>urn:uuid:13d2c37b-74d4-55e0-8645-d368cfca36a0</id>
-    <updated>2026-11-17T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Nvidia beats and guides to ~$130bn, shares edge up after hours; Dolby falls ~5% after hours on a flat FY27 outlook.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-18.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Tech Earnings — Tue 17 Nov 2026</title>
-    <id>urn:uuid:02c901ca-3fb9-5214-920c-2e1d16213993</id>
-    <updated>2026-11-16T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Quiet Monday before Nvidia: Baidu misses on profit as ads drop 22% (AI cloud +94%); XPeng up on Q4 guide; iQIYI back to operating profit</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-17.epub" type="application/epub+zip"/>
+    <summary>HPE slips ~6% after hours despite a big beat-and-raise; Zoom edges lower despite a beat, higher guide and first dividend</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-24.epub" type="application/epub+zip"/>
   </entry>
 </feed>
