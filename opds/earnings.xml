@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:4b600366-c2b7-5dbf-80ac-9b5b79038e7f</id>
   <title>Tech Earnings</title>
-  <updated>2026-11-24T08:50:20Z</updated>
+  <updated>2026-11-24T23:08:12Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/earnings.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Tech Earnings — Wed 25 Nov 2026</title>
+    <id>urn:uuid:31f232da-98f6-5999-91ec-861e19c4843c</id>
+    <updated>2026-11-24T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Dell jumps on a record AI-server quarter and $202bn outlook, HP rises ~9%; Analog Devices sinks ~17%; Workday, Autodesk and Nutanix slip</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tech-earnings/tech-earnings-2026-11-25.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Tech Earnings — Tue 24 Nov 2026</title>
     <id>urn:uuid:1e4c6e46-54dd-556e-a69d-61c31996cfb3</id>
