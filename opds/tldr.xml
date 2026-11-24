@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:8a11ee9a-4bb0-5259-863b-600e32b4367e</id>
   <title>TLDR Pre-Market</title>
-  <updated>2026-11-23T23:06:41Z</updated>
+  <updated>2026-11-24T08:50:20Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/tldr.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>TLDR Pre-Market — Tue 24 Nov 2026</title>
+    <id>urn:uuid:a69ce061-a7c5-5206-926c-810b61cddedd</id>
+    <updated>2026-11-23T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Anthropic closes $119.5bn IPO and placement (ANT on Nasdaq); TPG and Corpay take BILL private for $6bn; Trump threatens tax on US firms&#x27; overseas data centers; TSMC reportedly halts 16nm-and-below China orders.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-24.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>TLDR Pre-Market — Sat 21 Nov 2026</title>
     <id>urn:uuid:c9c7e2e6-d6ba-51c8-ba3e-05a1c413db2d</id>
@@ -15,32 +24,5 @@
     <dc:language>en</dc:language>
     <summary>Anthropic ends debut at $1.8tn; California subpoenas Nvidia over China chips; Palo Alto buys Applied Compute for $4.5bn; Microsoft–Intel foundry pact.</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-21.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>TLDR Pre-Market — Fri 20 Nov 2026</title>
-    <id>urn:uuid:bd215bc5-3179-5917-9124-cbf951afba3b</id>
-    <updated>2026-11-19T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Anthropic&#x27;s record $81.3bn IPO at $83/share (ANT); MongoDB buys Firebolt; Intel wins expanded Azure Xeon and packaging deal; Google launches Gemini 4 Neon.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-20.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>TLDR Pre-Market — Thu 19 Nov 2026</title>
-    <id>urn:uuid:148a95f6-7b69-5f59-b403-1a4ddb86c96f</id>
-    <updated>2026-11-18T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Nvidia guides Q4 to $130bn ex-China as its board rules out Huang&#x27;s return; OpenAI ships GPT-6.2 Astra and Sol; Isomorphic Labs raises $5bn; Google signs a $500m+ geothermal deal.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-19.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>TLDR Pre-Market — Wed 18 Nov 2026</title>
-    <id>urn:uuid:80e31cbd-50d5-5576-9d35-b745bb437d33</id>
-    <updated>2026-11-17T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Trump backs a Jensen Huang return as Nvidia&#x27;s board hunts for a new CEO; US closes the offshore cloud loophole on AI chips for China; Tesla commits €3bn to a Cybercab plant in Berlin; Nvidia unveils the Rubin HPC GPU.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-18.epub" type="application/epub+zip"/>
   </entry>
 </feed>
