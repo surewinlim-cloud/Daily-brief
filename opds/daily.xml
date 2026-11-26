@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-26T08:49:56Z</updated>
+  <updated>2026-11-26T23:09:36Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Fri 27 Nov 2026</title>
+    <id>urn:uuid:b320d0ad-2948-5abc-837f-3c3e8025b4ad</id>
+    <updated>2026-11-26T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Nvidia halts AI server shipments to SE Asia; Singapore pushes back on 20% US tariff; Hernandez de Cos to lead ECB; oil up on Hormuz mines</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-27.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Thu 26 Nov 2026</title>
     <id>urn:uuid:6feab09a-632c-595e-859f-d91b851f725a</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Nvidia reinstates Jensen Huang and the S&amp;P 500 posts its best day in 18 months; CrowdStrike to buy Zscaler; COP31 collapses</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-24.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Mon 23 Nov 2026</title>
-    <id>urn:uuid:0ca0a9d1-bae3-5f89-9d7c-4c7804d1230f</id>
-    <updated>2026-11-22T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Wall St correction deepens Fed-hike fears; SEC reportedly probes Nvidia accounting; Victorian Labor braces for heavy defeat; Korea&#x27;s education minister quits over Suneung.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-23.epub" type="application/epub+zip"/>
   </entry>
 </feed>
