@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:8a11ee9a-4bb0-5259-863b-600e32b4367e</id>
   <title>TLDR Pre-Market</title>
-  <updated>2026-11-26T23:09:36Z</updated>
+  <updated>2026-11-27T08:50:16Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/tldr.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>TLDR Pre-Market — Fri 27 Nov 2026</title>
+    <id>urn:uuid:42a615c8-3121-5778-a02a-acf622e09478</id>
+    <updated>2026-11-26T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>CrowdStrike to buy Zscaler for $43.9bn; HPE falls ~16% on AI margin squeeze; Stripe tender eyes $200bn+ valuation; GTCR weighs ~$50bn Global Payments buyout.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-27.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>TLDR Pre-Market — Thu 26 Nov 2026</title>
     <id>urn:uuid:5c757d5e-be42-5432-a18a-0ae1500f982f</id>
