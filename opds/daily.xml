@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:9117ebdc-5a65-5827-a436-1a05fb835f18</id>
   <title>Daily Brief</title>
-  <updated>2026-11-27T08:50:16Z</updated>
+  <updated>2026-11-27T23:07:59Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/daily.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>Daily Brief — Sat 28 Nov 2026</title>
+    <id>urn:uuid:2ac77f72-e5c6-5f6d-8ea7-1e44152efdfc</id>
+    <updated>2026-11-27T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Wall St rallies in Black Friday half-day; Victorians vote; Taiwan local elections; Tokyo inflation at 16-month high</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-28.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>Daily Brief — Fri 27 Nov 2026</title>
     <id>urn:uuid:b320d0ad-2948-5abc-837f-3c3e8025b4ad</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Chip stocks give back the Huang rally as the Dow tops 50,000; Anthropic dips below its IPO price; Singapore lifts 2026 growth forecast to ~6%</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-25.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>Daily Brief — Tue 24 Nov 2026</title>
-    <id>urn:uuid:13bb9259-9cf2-52e6-8ec5-bb54e6a84068</id>
-    <updated>2026-11-23T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Nvidia reinstates Jensen Huang and the S&amp;P 500 posts its best day in 18 months; CrowdStrike to buy Zscaler; COP31 collapses</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/daily/daily-brief-2026-11-24.epub" type="application/epub+zip"/>
   </entry>
 </feed>
