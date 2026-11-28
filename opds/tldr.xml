@@ -2,11 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:opds="http://opds-spec.org/2010/catalog">
   <id>urn:uuid:8a11ee9a-4bb0-5259-863b-600e32b4367e</id>
   <title>TLDR Pre-Market</title>
-  <updated>2026-11-27T23:07:59Z</updated>
+  <updated>2026-11-28T08:50:10Z</updated>
   <author><name>Claude</name></author>
   <link rel="self" href="https://surewinlim-cloud.github.io/Daily-brief/opds/tldr.xml" type="application/atom+xml;profile=opds-catalog;kind=acquisition"/>
   <link rel="start" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
   <link rel="up" href="https://surewinlim-cloud.github.io/Daily-brief/opds.xml" type="application/atom+xml;profile=opds-catalog;kind=navigation"/>
+  <entry>
+    <title>TLDR Pre-Market — Sat 28 Nov 2026</title>
+    <id>urn:uuid:266d3165-9691-57d9-ba39-8c94504e727a</id>
+    <updated>2026-11-27T23:30:00Z</updated>
+    <author><name>Claude</name></author>
+    <dc:language>en</dc:language>
+    <summary>Nvidia pauses SE Asia server shipments amid China export crackdown; SAP weighs 10,000+ job cuts; FCC clears SpaceX for up to 1M orbital data-centre satellites; Nvidia trims gaming GPU supply.</summary>
+    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-28.epub" type="application/epub+zip"/>
+  </entry>
   <entry>
     <title>TLDR Pre-Market — Fri 27 Nov 2026</title>
     <id>urn:uuid:42a615c8-3121-5778-a02a-acf622e09478</id>
@@ -33,14 +42,5 @@
     <dc:language>en</dc:language>
     <summary>Nvidia reinstates Jensen Huang as CEO; CrowdStrike buys Zscaler for $43.9bn in stock; Amazon confirms $7.5bn Decart deal; Deloitte sees record Black Friday turnout.</summary>
     <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-25.epub" type="application/epub+zip"/>
-  </entry>
-  <entry>
-    <title>TLDR Pre-Market — Tue 24 Nov 2026</title>
-    <id>urn:uuid:a69ce061-a7c5-5206-926c-810b61cddedd</id>
-    <updated>2026-11-23T23:30:00Z</updated>
-    <author><name>Claude</name></author>
-    <dc:language>en</dc:language>
-    <summary>Anthropic closes $119.5bn IPO and placement (ANT on Nasdaq); TPG and Corpay take BILL private for $6bn; Trump threatens tax on US firms&#x27; overseas data centers; TSMC reportedly halts 16nm-and-below China orders.</summary>
-    <link rel="http://opds-spec.org/acquisition" href="https://surewinlim-cloud.github.io/Daily-brief/editions/tldr/tldr-premarket-2026-11-24.epub" type="application/epub+zip"/>
   </entry>
 </feed>
